@@ -1,0 +1,12 @@
+{
+  "tokenAddress": "terra1sp0y4euf5q6ez3rzrr23xwuctjf8q2mgg9f2cd",
+  "tokenCodeID": 25088,
+  "pairCodeID": 25089,
+  "pairStableCodeID": 25090,
+  "vestingAddress": "terra1zjedu2w35zzlry3ws9rywm0vdv3cpg5axju6em",
+  "stakingAddress": "terra1ksf4u2rh3gmrvw8ezsg8tx8sa6swu4f93l8dac",
+  "generatorAddress": "terra1xsxsys9rew3ypmqaazvuxf9dm0f70qh920aq43",
+  "factoryAddress": "terra15fneru2p7mf4vsqzaulunskrh272uq44mzkxpm",
+  "routerAddress": "terra1p9pqrrn8q0x9pfj2d0m2excry2vznzyhk02mff",
+  "makerAddress": "terra183gwffry8eul3fs3nm22gc09vsh9rdx7x0sfxp"
+}
