@@ -9,6 +9,8 @@
   "factoryAddress": "terra15jsahkaf9p0qu8ye873p0u5z6g07wdad0tdq43",
   "routerAddress": "terra13wf295fj9u209nknz2cgqmmna7ry3d3j5kv7t4",
   "makerAddress": "terra14906rw2kyu50cdw25x0uymkrlqtgqxjemdfd0n",
+  "official_luna_ust_astroport_pool": "terra1e49fv4xm3c2znzpxmxs0z2z6y74xlwxspxt38s",
+  "official_luna_ust_astroport_lp_token_address": "terra1dqjpcqej9nxej80u0p56rhkrzlr6w8tp7txkmj",
   "official_anc_ust_astroport_pool": "terra13r3vngakfw457dwhw9ef36mc8w6agggefe70d9",
   "official_anc_ust_astroport_lp_token_address": "terra1agu2qllktlmf0jdkuhcheqtchnkppzrl4759y6",
   "official_bluna_luna_astroport_pool": "terra1esle9h9cjeavul53dqqws047fpwdhj6tynj5u4",
@@ -22,7 +24,7 @@
   "official_mine_ust_astroport_pool": "terra1hh20kjfz4yaqkyfwfd2n8ktwnr956m82r9lqd4",
   "official_mine_ust_astroport_lp_token_address": "terra1neqsjj9dq6lfu6xmrsn06mrzrttax0glfa7f92",
   "official_orion_ust_astroport_pool": "terra1yw0vertt9yzpr2nzwtduau3qnrje46uzksqjft",
-  "official_orion_ust_astroport_lp_token_address": "terra1nzmdsg20gd04cxzmvmzg0zglvz5yan3fmzg9t8".
+  "official_orion_ust_astroport_lp_token_address": "terra1nzmdsg20gd04cxzmvmzg0zglvz5yan3fmzg9t8",
   "official_kuji_ust_astroport_pool": "terra178na9upyad7gu4kulym9uamwafgrf922yln76l",
   "official_kuji_ust_astroport_lp_token_address": "terra1mdgq0fyr69m5880q909ts598e0qlevj543shr4"
 }
