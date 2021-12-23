@@ -28,5 +28,7 @@
   "official_kuji_ust_astroport_pool": "terra178na9upyad7gu4kulym9uamwafgrf922yln76l",
   "official_kuji_ust_astroport_lp_token_address": "terra1mdgq0fyr69m5880q909ts598e0qlevj543shr4",
   "official_stluna_uluna_astroport_pool": "terra19s9uamfq074pqgknk5ahu0gen5gnxrrhdt004d",
-  "official_stluna_uluna_astroport_lp_token_address": "terra1l7dza9yj79l756razhpxj5rhxwljrk8hcc42pn"
+  "official_stluna_uluna_astroport_lp_token_address": "terra1l7dza9yj79l756razhpxj5rhxwljrk8hcc42pn",
+  "official_astro_ust_astroport_pool": "terra1ec0fnjk2u6mms05xyyrte44jfdgdaqnx0upesr",
+  "official_astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry"
 }
