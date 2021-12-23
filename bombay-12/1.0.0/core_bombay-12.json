@@ -30,5 +30,6 @@
   "official_stluna_uluna_astroport_pool": "terra19s9uamfq074pqgknk5ahu0gen5gnxrrhdt004d",
   "official_stluna_uluna_astroport_lp_token_address": "terra1l7dza9yj79l756razhpxj5rhxwljrk8hcc42pn",
   "official_astro_ust_astroport_pool": "terra1ec0fnjk2u6mms05xyyrte44jfdgdaqnx0upesr",
-  "official_astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry"
+  "official_astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry",
+  "vkr_ust_astroport_lp_staking_contract": "terra1q4uk5vh7km9dtnlwtzlpmtzrtvf9yzzst46tl7"
 }
