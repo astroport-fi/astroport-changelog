@@ -10,6 +10,8 @@
   "router_address": "terra1gp60ef93jne7z0rl5ezu8ef7fczxt50hrpdjut",
   "maker_address": "terra1uetlz3pnxz292fk7758u056059sm26mu2pms4w",
   "astroport_factory_address": "terra1xkuxfhxa2jmjercq3ryplnj65huhlxl5mv3d6x",
+  "vesting_address": "terra1ajmk6punumr2gr5dck2m0pdwdcpgmfxspwwml2",
+  "generator_address": "terra1x9qymk5hvhpgkhdz8c2x9n5klvn4k2w3na4end"
   
   "luna_ust_astroport_pool": "terra19p6crgn9k6nml22pzv073uvj8efvyv8kr3tqel",
   "luna_ust_astroport_lp_token_address": "terra1q8aycvr54jarwhqvlr54jr2zqttctnefw7x37q",
