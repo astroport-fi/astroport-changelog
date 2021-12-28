@@ -26,4 +26,7 @@
   "apollo_ust_astroport_lp_token_address": "terra1zuktmswe9zjck0xdpw2k79t0crjk86fljv2rm0",
   "bluna_luna_astroport_pool": "terra1j66jatn3k50hjtg2xemnjm8s7y8dws9xqa5y8w",
   "bluna_luna_astroport_lp_token_address": "terra1htw7hm40ch0hacm8qpgd24sus4h0tq3hsseatl"
+
+  "astro_ust_astroport_pool": "terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7",
+  "astro_ust_astroport_lp_token_address": "terra17n5sunn88hpy965mzvt3079fqx3rttnplg779g"
 }
