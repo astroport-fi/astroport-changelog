@@ -1,9 +1,9 @@
 { 
-	"pairCodeID": 29572,
-	"pairStableCodeID": 29573,
-	"staking_address": "terra1r38k0hmgrjsrc6p86pncz5vnffs6newarvuntz",
-	"xastro_address": "terra18gxduhvhuprf794va87094np8m9cf0fv2dprwe",
-	"factory_address": "terra1uwnhsu586ql6gm3v7wtz7adw5vlfajvw2rvt08",
-	"router_address": "terra1xez5xsej3nefwhrxv6sppzsluajke9pn3je9vg",
-	"maker_address": "terra1h5wd7kkpplv824ecdkmw6gvasc4xhzxep3fdcs"
+  "pairCodeID": 29572,
+  "pairStableCodeID": 29573,
+  "staking_address": "terra1r38k0hmgrjsrc6p86pncz5vnffs6newarvuntz",
+  "xastro_address": "terra18gxduhvhuprf794va87094np8m9cf0fv2dprwe",
+  "factory_address": "terra1uwnhsu586ql6gm3v7wtz7adw5vlfajvw2rvt08",
+  "router_address": "terra1xez5xsej3nefwhrxv6sppzsluajke9pn3je9vg",
+  "maker_address": "terra1h5wd7kkpplv824ecdkmw6gvasc4xhzxep3fdcs"
 }
