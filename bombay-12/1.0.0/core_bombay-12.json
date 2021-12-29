@@ -39,11 +39,17 @@
 
   "xdefi_ust_astroport_pool": "terra1qgzdef7eatxvumsl24jc8t2r7fkleldwzaxks9",
   "xdefi_ust_astroport_lp_token_address": "terra1ftf7h6dumg3tvw6yrnf3d2dh8h0y3qgnctqqyx",
+  "wewstETH_ust_astroport_pool": "terra1a3lyew9pmpv2sanqkn9hsyawwsk5ak76d6dy3f",
+  "wewstETH_ust_astroport_lp_token_address": "terra12sj7cjnvstnfe2jr22amuwy3y2ecuglr3366pv",
+  "wsstSOL_ust_astroport_pool": "terra1zm39appzjnz205n347fpg6snp83tdt7lm894n5",
+  "wsstSOL_ust_astroport_lp_token_address": "terra183kemvhe6nwr7faw3jd27g6j8v5z9vh8f7zg9h",
   
   "vkr_ust_astroport_lp_staking_contract": "terra1q4uk5vh7km9dtnlwtzlpmtzrtvf9yzzst46tl7",
   "stt_ust_astroport_lp_staking_contract": "terra1ntha4c9gyn380cy8g76cluztsn45rqnekkqgs7",
   "orion_ust_astroport_lp_staking_contract": "terra1m7fjg6lwle8hrae74c5r5ume0h3dk0ekvkhxaz",
   "psi_ust_astroport_lp_staking_contract": "terra1g25s2xc06fht8mea3gvxr3cmtsarv07l37s4m8",
   "xdefi_ust_astroport_lp_staking_contract": "terra1gazgqjfjzu7ws0g36k3c4uknp0e78ktjrqfvgk",
-  "mir_ust_astroport_lp_staking_contract": "terra1a06dgl27rhujjphsn4drl242ufws267qxypptx"
+  "mir_ust_astroport_lp_staking_contract": "terra1a06dgl27rhujjphsn4drl242ufws267qxypptx",
+  "wewstETH_ust_lp_staking_contract": "terra1gu9f2ket9s6kkq3huvwhgwjs6dw4436u49v0hl",
+  "wsstSOL_ust_lp_staking_contract": "terra1xhyr3xe67t6cf6t23qllf44rvq6r7a9jw3d8tx"
 }
