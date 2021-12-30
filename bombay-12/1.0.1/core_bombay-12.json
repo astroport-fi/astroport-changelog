@@ -1,10 +1,13 @@
 { 
   "pairCodeID": 29572,
   "pairStableCodeID": 29573,
-  "staking_address": "terra1r38k0hmgrjsrc6p86pncz5vnffs6newarvuntz",
-  "xastro_address": "terra18gxduhvhuprf794va87094np8m9cf0fv2dprwe",
-  "factory_address": "terra1uwnhsu586ql6gm3v7wtz7adw5vlfajvw2rvt08",
-  "router_address": "terra1xez5xsej3nefwhrxv6sppzsluajke9pn3je9vg",
-  "maker_address": "terra1h5wd7kkpplv824ecdkmw6gvasc4xhzxep3fdcs",
-  "generator_address": "terra1yz7pfpxt2ylnffxskxq7ydd292655rsx8dl89q "
+  "astro_token_address": "terra1cc2up8erdqn2l7nz37qjgvnqy56sr38aj9vqry",
+  "multisig_address": "terra1yskm9s4r0h0egg3lxe5wmmppr9s6lfau4j8yhc",
+  "staking_address": "terra1ym46q3cv0vnu6sg7hwch9ewdpnvwdaauxwqg7q",
+  "xastro_address": "terra1afev5mg7k6gpyn96sv45ql3r35tyknlr72qc3y",
+  "factory_address": "terra1x6f9mf9p7p255y3rwrk0kfynzp0kr8m4ervxn4",
+  "router_address": "terra1f98aasp8dluuwurkumpn94a2cuwuv5hpa33fg6",
+  "maker_address": "terra1mlntg5c7yq9wp0jzachm0ersk5sar3sfagj0f2",
+  "vesting_address": "terra1zqvahg94h5zhechfvge4xdx92plngl9vql4cyq",
+  "generator_address": "terra1yz7pfpxt2ylnffxskxq7ydd292655rsx8dl89q"
 }
