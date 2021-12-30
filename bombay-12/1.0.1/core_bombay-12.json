@@ -36,11 +36,4 @@
   
   "astro_ust_astroport_pool": "terra1dk57pl4v4ut9kwsmtrv9k4kkn9fxrh290zvg2w",
   "astro_ust_astroport_lp_token_address": "terra1uahqpnm4p3ag8ma40xhtft96uvuxy6vn9p6x9v",
-
-  "xdefi_ust_astroport_pool": "terra1qgzdef7eatxvumsl24jc8t2r7fkleldwzaxks9",
-  "xdefi_ust_astroport_lp_token_address": "terra1ftf7h6dumg3tvw6yrnf3d2dh8h0y3qgnctqqyx",
-  "wewstETH_ust_astroport_pool": "terra1a3lyew9pmpv2sanqkn9hsyawwsk5ak76d6dy3f",
-  "wewstETH_ust_astroport_lp_token_address": "terra12sj7cjnvstnfe2jr22amuwy3y2ecuglr3366pv",
-  "wsstSOL_ust_astroport_pool": "terra1zm39appzjnz205n347fpg6snp83tdt7lm894n5",
-  "wsstSOL_ust_astroport_lp_token_address": "terra183kemvhe6nwr7faw3jd27g6j8v5z9vh8f7zg9h"
 }
