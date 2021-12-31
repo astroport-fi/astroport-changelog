@@ -27,7 +27,18 @@
   "apollo_ust_astroport_pool": "terra1zpnhtf9h5s7ze2ewlqyer83sr4043qcq64zfc4",
   "apollo_ust_astroport_lp_token_address": "terra1zuktmswe9zjck0xdpw2k79t0crjk86fljv2rm0",
   "bluna_luna_astroport_pool": "terra1j66jatn3k50hjtg2xemnjm8s7y8dws9xqa5y8w",
-  "bluna_luna_astroport_lp_token_address": "terra1htw7hm40ch0hacm8qpgd24sus4h0tq3hsseatl"
+  "bluna_luna_astroport_lp_token_address": "terra1htw7hm40ch0hacm8qpgd24sus4h0tq3hsseatl",
+
+  "avax_luna_astroport_pool": "terra16jaryra6dgfvkd3gqr5tcpy3p2s37stpa9sk7s",
+  "avax_luna_astroport_lp_token": "terra1pme6xgsr0f6sdcq5gm2qs8dsc2v0h6gqzs8js5",
+  "bnb_luna_astroport_pool": "terra1tehmd65kyleuwuf3a362mhnupkpza29vd86sml",
+  "bnb_luna_astroport_lp_token": "terra1wk0lev7qneurzp2dzcauh2ktctwx6v079uvn7w",
+  "eth_luan_astroport_pool":  "terra1m32zs8725j9jzvva7zmytzasj392wpss63j2v0",
+  "eth_luna_astroport_lp_token": "terra1lmlv43teqcty6xldtg4f40sghnd2f8ehjz0qpk",
+  "sol_luna_astroport_pool": "terra16e5tgdxre44gvmjuu3ulsa64kc6eku4972yjp3",
+  "sol_luna_astroport_lp_token": "terra1x6jws8lh505gw7dl67a7qq077g9mn3cjj3v22r",
+  "matic_luna_astroport_pool": "terra1wr07qcmfqz2vxhcfr6k8xv8eh5es7u9mv2z07x",
+  "matic_luna_astroport_lp_token": "terra1n32fdqslpyug72zrcv8gwq37vjj0mxhy9p4g7z"
 
   "astro_ust_astroport_pool": "terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7",
   "astro_ust_astroport_lp_token_address": "terra17n5sunn88hpy965mzvt3079fqx3rttnplg779g"
