@@ -57,6 +57,13 @@
   "official_orion_ust_astroport_lp_token_address": "terra1nzmdsg20gd04cxzmvmzg0zglvz5yan3fmzg9t8",
   "orion_staking_contract": "terra1m7fjg6lwle8hrae74c5r5ume0h3dk0ekvkhxaz",
 
+  "stt_token": "terra1szee0j4m8c75etfs9le9tepa4mc80t3vpf72ls",
+  "stt_ust_terraswap_pool": "terra1pjxeddunqetq03ztuu7cp58h45t55gps4649t0",
+  "stt_ust_terraswap_lp_token_address": "terra1gzdv6wyrkkqmdkff065jad54n2p9rxh373k4ev",
+  "official_stt_ust_astroport_pool": "terra13sn4xx9s2k7q26xju5zy99j2n8pfhlt2a5yccx",
+  "official_stt_ust_astroport_lp_token_address": "terra159xnereggxkfdswssheajdkr6n569q6hffl5p6",
+  "stt_staking_contract": "",
+  
   "mine_token": "terra1lqm5tutr5xcw9d5vc4457exa3ghd4sr9mzwdex",
   "mine_ust_terraswap_pool": "terra1n2xmlwqpp942nfqq2muxn0u0mqk3sylekdpqfv",
   "mine_ust_terraswap_lp_token_address": "terra1st9me79vkk4erw3apydt5z48n6ahgj4qdclp4u",
@@ -82,17 +89,17 @@
   "apollo_staking_contract": "",
 
   "xdefi_token":"terra186tpamwvve5c7dhymrmk2r3zz3ynnurhupd7p9",
-  "xdefi_ust_astroport_pool": "",
-  "xdefi_ust_astroport_lp_token_address": "",
+  "official_xdefi_ust_astroport_pool": "terra1zyc39h9d6tjf7e84xpw0wpuhg02sfnju3my6vl",
+  "official_xdefi_ust_astroport_lp_token_address": "terra1tcctmat9yu23grgczpyeynl83echgvlc4uvzmg"
   "xdefi_ust_astroport_lp_staking_contract": "",
   
   "wewstETH_token":"terra1hp84qsfk6qv0x2en8hdul3370a79qk90e59a5v",
-  "wewstETH_ust_astroport_pool": "",
-  "wewstETH_ust_astroport_lp_token_address": "",
+  "official_wewstETH_ust_astroport_pool": "terra1zsvarphwyzlgjwx9xty0rezla9l7s0p5qd87pu",
+  "official_wewstETH_ust_astroport_lp_token_address": "terra1mn8xw7ksu9wc38m4rnvdu9nu36ntur26gat4wj"  
   "wewstETH_ust_lp_staking_contract": "",
   
   "wewstSOL_token":"terra1lty87kmhht8hr0q5w62uszhs2sk85evwtyv6hy",
-  "wsstSOL_ust_astroport_pool": "",
-  "wsstSOL_ust_astroport_lp_token_address": "",
+  "official_wewstSOL_ust_astroport_pool": "terra1prwpl8h63l8nex58clk25wd4zpu0rvfuz2dvh4",
+  "official_wewstSOL_ust_astroport_lp_token_address": "terra1pmratq75tq4wtp36sedtl3g5awm9vt4ac9udhl"
   "wsstSOL_ust_lp_staking_contract": ""
 }
