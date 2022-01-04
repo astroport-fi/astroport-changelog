@@ -81,11 +81,11 @@
   "official_stluna_uluna_astroport_pool": "terra19s9uamfq074pqgknk5ahu0gen5gnxrrhdt004d",
   "official_stluna_uluna_astroport_lp_token_address": "terra1l7dza9yj79l756razhpxj5rhxwljrk8hcc42pn",
   
-  "apollo_token": "terra15ye804hqvlnptjfrt42tdg96q7kxpxr9pxjxnp",
-  "apollo_ust_terraswap_pool": "",
-  "apollo_ust_terraswap_lp_token_address": "",
-  "apollo_ust_astroport_pool": "terra1en8fh4qhqhymhttzn76z0r2pju9rqnm6auak8a",
-  "apollo_ust_astroport_lp_token_address": "terra1st47pzhvrwfmkxhm27vqsk78674z90g6zgfgj4",
+  "apollo_token": "terra1a0dx9xeh7sh6amn69zxg35twvdm44cghrlh87d",
+  "apollo_ust_terraswap_pool": "terra1f2r3lf80wjw0mzcpedxue5s9xksue3jm66smss",
+  "apollo_ust_terraswap_lp_token_address": "terra1zlldk3h5m88sppalm2ag4yrwlc4zqexvykvjmu",
+  "official_apollo_ust_astroport_pool": "terra1af47e4tl5gapkqr45vvxx7nygg5f9qkecjvpdm",
+  "official_apollo_ust_astroport_lp_token_address": "terra12ekyxay62wa5zq8tcgqysw83hvtfs9qhe9j66v",
   "apollo_staking_contract": "",
 
   "xdefi_token":"terra186tpamwvve5c7dhymrmk2r3zz3ynnurhupd7p9",
