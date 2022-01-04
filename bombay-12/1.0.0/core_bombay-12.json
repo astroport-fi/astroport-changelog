@@ -102,4 +102,12 @@
   "official_wewstSOL_ust_astroport_pool": "terra1prwpl8h63l8nex58clk25wd4zpu0rvfuz2dvh4",
   "official_wewstSOL_ust_astroport_lp_token_address": "terra1pmratq75tq4wtp36sedtl3g5awm9vt4ac9udhl"
   "wsstSOL_ust_lp_staking_contract": ""
+  
+  "nexus_nETH_token": "terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv",
+  "official_nexus_nETH_PSI_astroport_pool": "terra1mt63aef37fx9z7jfadtgk8a5swxlxce9pjdgvy",
+  "official_nexus_nETH_PSI_astroport_lp_token_address": "terra1dpzuan9dyp20ze7ttfv4n6vwjl9k0j9nppzq2s",
+
+  "nexus_nLUNA_token": "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe",
+  "official_nexus_nLUNA_PSI_astroport_pool": "terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee",
+  "official_nexus_nLUNA_PSI_astroport_lp_token_address": "terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2"
 }
