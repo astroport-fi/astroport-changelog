@@ -28,6 +28,9 @@
   "apollo_ust_astroport_lp_token_address": "terra1zuktmswe9zjck0xdpw2k79t0crjk86fljv2rm0",
   "bluna_luna_astroport_pool": "terra1j66jatn3k50hjtg2xemnjm8s7y8dws9xqa5y8w",
   "bluna_luna_astroport_lp_token_address": "terra1htw7hm40ch0hacm8qpgd24sus4h0tq3hsseatl",
+  
+  "xdefi_ust_astroport_pool": "terra1476fucrvu5tuga2nx28r3fctd34xhksc2gckgf",
+  "xdefi_ust_astroport_lp_token_address": "terra1krvq5hk3a37yeydzfrgjj00d8xygk5um9jas8p",
 
   "avax_luna_astroport_pool": "terra16jaryra6dgfvkd3gqr5tcpy3p2s37stpa9sk7s",
   "avax_luna_astroport_lp_token": "terra1pme6xgsr0f6sdcq5gm2qs8dsc2v0h6gqzs8js5",
