@@ -48,7 +48,7 @@
   "psi_ust_terraswap_lp_token_address": "terra12qfjg2m50syyg3eljpj0rx0x8jez5j56mg77zc",
   "official_psi_ust_astroport_pool": "terra1a7vcghx2vjyg74nqk5krd9ppa8ks8ytz5vdsgp",
   "official_psi_ust_astroport_lp_token_address": "terra1zv9uhshhuw6yr4m95nx54cpl0g4ahska5uwfv8",
-  "psi_staking_contract": "terra1g25s2xc06fht8mea3gvxr3cmtsarv07l37s4m8",
+  "psi_staking_contract": "",
 
   "orion_token": "terra13qdskca8xavmed88htplse0z396tesgh63tn9r",
   "orion_ust_terraswap_pool": "terra1eejl4sxy5laxt93nfyk04es4pyu20rv3g2efuc",
