@@ -1,0 +1,17 @@
+{
+  "anc_ust_staking_contract": "terra1h3mf22jm68ddueryuv2yxwfmqxxadvjceuaqz6",
+  "orion_ust_staking_contract": "terra1cw00274wlje5z8vtlrpaqx5cwj29c5a5ku2zhv",
+  "stt_ust_staking_contract": "terra15p807wnm9q3dyw4rvfqsaukxqt6lkuqe62q3mp",
+  "vkr_ust_staking_contract": "terra1wjc6zd6ue5sqmyucdu8erxj5cdf783tqle6dja",
+  "apollo_ust_staking_contract": "terra1g7jjjkt5uvkjeyhp8ecdz4e4hvtn83sud3tmh2",
+  "xefi_ust_staking_contract": "terra12vu0rxec60rwg82hlkwdjnqwxrladt00rpllzl",
+  "mir_ust_staking_contract": "",
+  
+  "generator_proxy_to_xdefi_ust": "terra1wranc9ta64f0nwdyv842d7kdm7ae80kdl5tvne",
+  "generator_proxy_to_apollo_ust": "terra1e5zw6ujvzcmmgh8rxlttddlk2t62j2lh5jtwe8"
+  "generator_proxy_to_anc_ust": "terra1v2wez00fyy8ajxgkh2jcx82haqfudvxcs5sdzr",
+  "generator_proxy_to_mir_ust": "terra15g9we4hs03zv5lkmkpm3gk6vr5tfq8c6egxss6",
+  "generator_proxy_to_orion_ust": "terra12z0q65r2y3y56g970fghfderncf4a2nurta0sc",
+  "generator_proxy_to_stt_ust": "terra16pnm59kxmgnp9kv6ye3ejnpevfmzdlllx0pake",
+  "generator_proxy_to_vkr_ust": "terra1px6vx9uegszfycw9z75dfpmzqtwjtrpm20qck2"
+}
