@@ -35,8 +35,13 @@
   "neth_psi_astroport_lp_token_address": "terra1pjfqacx7k6dg63v2h5q96zjg7w5q25093wnkjc",
   "nluna_psi_astroport_pool": "terra10lv5wz84kpwxys7jeqkfxx299drs3vnw0lj8mz",
   "nluna_psi_astroport_lp_token_address": "terra1t53c8p0zwvj5xx7sxh3qtse0fq5765dltjrg33",
+  
   "stluna_luna_astroport_pool": "terra1gxjjrer8mywt4020xdl5e5x7n6ncn6w38gjzae",
   "stluna_luna_astroport_lp_token_address": "terra1h2lasu3a5207yt7decg0s09z5ltw953nrgj820",
+  "stsol_ust_astroport_pool": "terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex",
+  "stsol_ust_astroport_lp_token_address": "terra1cgvlpz6vltqa49jlj3yr2ddnwy22xw62k4433t",
+  "steth_ust_astroport_pool": "terra1edurrzv6hhd8u48engmydwhvz8qzmhhuakhwj3",
+  "steth_ust_astroport_lp_token_address": "terra1qz4cv5lsfw4k2266q52z9rtz64n58paxy9d476"
 
   "avax_luna_astroport_pool": "terra16jaryra6dgfvkd3gqr5tcpy3p2s37stpa9sk7s",
   "avax_luna_astroport_lp_token": "terra1pme6xgsr0f6sdcq5gm2qs8dsc2v0h6gqzs8js5",
