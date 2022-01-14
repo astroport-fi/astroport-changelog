@@ -1,7 +1,9 @@
 {
   "lockdropAddress": "terra1627ldjvxatt54ydd3ns6xaxtd68a2vtyu7kakj",
-  "airdrop_Address": "terra1dpe2aqykm2vnakcz4vgpha0agxnlkjvgfahhk7",
-  "auction_Address": "terra1tvld5k6pus2yh7pcu7xuwyjedn7mjxfkkkjjap",
+  "airdrop_address": "terra1dpe2aqykm2vnakcz4vgpha0agxnlkjvgfahhk7",
+  "airdrop_two_address": "terra1hk7fturdl9fnvrn566dxer6ds7v4jklp2wqmp7",
+  "auction_address": "terra1tvld5k6pus2yh7pcu7xuwyjedn7mjxfkkkjjap",
+  
   "terraswap_factory_address": "terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj",
   "luna_ust_terraswap_pool": "terra1tndcaqxkpc5ce9qee5ggqf430mr2z3pefe5wj6",
   "luna_ust_terraswap_lp_token_address": "terra17dkr9rnmtmu7x4azrpupukvur2crnptyfvsrvr",
