@@ -93,21 +93,21 @@
   "official_xdefi_ust_astroport_lp_token_address": "terra1tcctmat9yu23grgczpyeynl83echgvlc4uvzmg"
   "xdefi_ust_astroport_lp_staking_contract": "terra1gazgqjfjzu7ws0g36k3c4uknp0e78ktjrqfvgk",
   
-  "wewstETH_token":"terra1hp84qsfk6qv0x2en8hdul3370a79qk90e59a5v",
-  "official_wewstETH_ust_astroport_pool": "terra1zsvarphwyzlgjwx9xty0rezla9l7s0p5qd87pu",
-  "official_wewstETH_ust_astroport_lp_token_address": "terra1mn8xw7ksu9wc38m4rnvdu9nu36ntur26gat4wj"  
-  "wewstETH_ust_lp_staking_contract": "",
+  "wewsteth_token":"terra1hp84qsfk6qv0x2en8hdul3370a79qk90e59a5v",
+  "official_wewsteth_ust_astroport_pool": "terra1zsvarphwyzlgjwx9xty0rezla9l7s0p5qd87pu",
+  "official_wewsteth_ust_astroport_lp_token_address": "terra1mn8xw7ksu9wc38m4rnvdu9nu36ntur26gat4wj"  
+  "wewsteth_ust_lp_staking_contract": "",
   
   "wewstSOL_token":"terra1lty87kmhht8hr0q5w62uszhs2sk85evwtyv6hy",
-  "official_wewstSOL_ust_astroport_pool": "terra1prwpl8h63l8nex58clk25wd4zpu0rvfuz2dvh4",
-  "official_wewstSOL_ust_astroport_lp_token_address": "terra1pmratq75tq4wtp36sedtl3g5awm9vt4ac9udhl"
-  "wsstSOL_ust_lp_staking_contract": ""
+  "official_wewstsol_ust_astroport_pool": "terra1prwpl8h63l8nex58clk25wd4zpu0rvfuz2dvh4",
+  "official_wewstsol_ust_astroport_lp_token_address": "terra1pmratq75tq4wtp36sedtl3g5awm9vt4ac9udhl"
+  "wsstsol_ust_lp_staking_contract": ""
   
-  "nexus_nETH_token": "terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv",
-  "official_nexus_nETH_PSI_astroport_pool": "terra1mt63aef37fx9z7jfadtgk8a5swxlxce9pjdgvy",
-  "official_nexus_nETH_PSI_astroport_lp_token_address": "terra1dpzuan9dyp20ze7ttfv4n6vwjl9k0j9nppzq2s",
+  "nexus_neth_token": "terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv",
+  "official_neth_psi_astroport_pool": "terra1mt63aef37fx9z7jfadtgk8a5swxlxce9pjdgvy",
+  "official_neth_psi_astroport_lp_token_address": "terra1dpzuan9dyp20ze7ttfv4n6vwjl9k0j9nppzq2s",
 
-  "nexus_nLUNA_token": "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe",
-  "official_nexus_nLUNA_PSI_astroport_pool": "terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee",
-  "official_nexus_nLUNA_PSI_astroport_lp_token_address": "terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2"
+  "nexus_nluna_token": "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe",
+  "official_nluna_psi_astroport_pool": "terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee",
+  "official_nluna_psi_astroport_lp_token_address": "terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2"
 }
