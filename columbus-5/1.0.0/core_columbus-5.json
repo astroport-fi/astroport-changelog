@@ -65,6 +65,11 @@
   "weUSDC_UST_astroport_pool": "terra1x0ulpvp6m46c5j7t40nj24mjp900954ys2jsnu",
   "weUSDC_UST_astroport_lp_token_address": "terra1lapdj4fcg936fpgdwewx55h7n79p4p9tzrg4lw",
 
+  “wgOHM_token”: “terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3",
+  “wgOHM_UST_astroport_pool”: “terra1mv04l9m4xc6fntxnty265rsqpnn0nk8aq0c9ge”,
+  “wgOHM_UST_astroport_lp_token_address”: “terra160jxnp3qfxrrjrfhul3xens4ggw6le7p4m4e6g”
+
+
   "astro_ust_astroport_pool": "terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7",
   "astro_ust_astroport_lp_token_address": "terra17n5sunn88hpy965mzvt3079fqx3rttnplg779g"
 }
