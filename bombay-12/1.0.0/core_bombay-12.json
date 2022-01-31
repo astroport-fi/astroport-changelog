@@ -27,50 +27,43 @@
   "anc_ust_terraswap_lp_token_address": "terra1vg0qyq92ky9z9dp0j9fv5rmr2s80sg605dah6f",
   "official_anc_ust_astroport_pool": "terra13r3vngakfw457dwhw9ef36mc8w6agggefe70d9",
   "official_anc_ust_astroport_lp_token_address": "terra1agu2qllktlmf0jdkuhcheqtchnkppzrl4759y6",
-  "anc_staking_contract": "terra1q68gyyxqnlh58jacz5r6rxfmxqpmmjv583fzqq",
-
+  
   "mir_token": "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u",
   "mir_ust_terraswap_pool": "terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0",
   "mir_ust_terraswap_lp_token_address": "terra1zrryfhlrpg49quz37u90ck6f396l4xdjs5s08j",
   "official_mir_ust_astroport_pool": "terra1xrt4j56mkefvhnyqqd5pgk7pfxullnkvsje7wx",
   "official_mir_ust_astroport_lp_token_address": "terra1efmcf22aweaj3zzjhzgyghv88dda0yk4j9jp29",
-  "mir_staking_contract": "terra1a06dgl27rhujjphsn4drl242ufws267qxypptx",
-
+  
   "vkr_token": "terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5",
   "vkr_ust_terraswap_pool": "terra1wqlehpdy5yu787lnk5k8c2zf0eyvc9rt8ek0x3",
   "vkr_ust_terraswap_lp_token_address": "terra1gwktz6stdrr377e4nmqu49es8e73pxwx7qejew",
   "official_vkr_ust_astroport_pool": "terra168jy6ej8rm2kf8wtygavpqq5fpc5ewq39xe36a",
   "official_vkr_ust_astroport_lp_token_address": "terra1qrpflfyte76cvxdj8tftj2qvat47aus38h58p4",
-  "vkr_staking_contract": "terra1q4uk5vh7km9dtnlwtzlpmtzrtvf9yzzst46tl7",
   
   "psi_token": "terra18nle009rtynpjgleh2975rleu5zts0zdtqryte",
   "psi_ust_terraswap_pool": "terra1ee9h9c9fv2smm8wkq0aw78tut3w3x62ckj6nz8",
   "psi_ust_terraswap_lp_token_address": "terra12qfjg2m50syyg3eljpj0rx0x8jez5j56mg77zc",
   "official_psi_ust_astroport_pool": "terra1a7vcghx2vjyg74nqk5krd9ppa8ks8ytz5vdsgp",
   "official_psi_ust_astroport_lp_token_address": "terra1zv9uhshhuw6yr4m95nx54cpl0g4ahska5uwfv8",
-  "psi_staking_contract": "",
-
+ 
   "orion_token": "terra13qdskca8xavmed88htplse0z396tesgh63tn9r",
   "orion_ust_terraswap_pool": "terra1eejl4sxy5laxt93nfyk04es4pyu20rv3g2efuc",
   "orion_ust_terraswap_lp_token_address": "terra1qvmf8jf3a7h6lgglw29f8nvcckn7t8z0hqgma5",
   "official_orion_ust_astroport_pool": "terra1yw0vertt9yzpr2nzwtduau3qnrje46uzksqjft",
   "official_orion_ust_astroport_lp_token_address": "terra1nzmdsg20gd04cxzmvmzg0zglvz5yan3fmzg9t8",
-  "orion_staking_contract": "terra1m7fjg6lwle8hrae74c5r5ume0h3dk0ekvkhxaz",
-
+ 
   "stt_token": "terra1szee0j4m8c75etfs9le9tepa4mc80t3vpf72ls",
   "stt_ust_terraswap_pool": "terra1pjxeddunqetq03ztuu7cp58h45t55gps4649t0",
   "stt_ust_terraswap_lp_token_address": "terra1gzdv6wyrkkqmdkff065jad54n2p9rxh373k4ev",
   "official_stt_ust_astroport_pool": "terra13sn4xx9s2k7q26xju5zy99j2n8pfhlt2a5yccx",
   "official_stt_ust_astroport_lp_token_address": "terra159xnereggxkfdswssheajdkr6n569q6hffl5p6",
-  "stt_staking_contract": "terra1j2rry9nzn6z5xjcdy924hlt2avrh2a04wgnz47",
-  
+ 
   "mine_token": "terra1lqm5tutr5xcw9d5vc4457exa3ghd4sr9mzwdex",
   "mine_ust_terraswap_pool": "terra1n2xmlwqpp942nfqq2muxn0u0mqk3sylekdpqfv",
   "mine_ust_terraswap_lp_token_address": "terra1st9me79vkk4erw3apydt5z48n6ahgj4qdclp4u",
   "official_mine_ust_astroport_pool": "terra1hh20kjfz4yaqkyfwfd2n8ktwnr956m82r9lqd4",
   "official_mine_ust_astroport_lp_token_address": "terra1neqsjj9dq6lfu6xmrsn06mrzrttax0glfa7f92",
-  "mine_staking_contract": "",
-  
+ 
   "official_astro_ust_astroport_pool": "terra1ec0fnjk2u6mms05xyyrte44jfdgdaqnx0upesr",
   "official_astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry",
 
@@ -86,27 +79,23 @@
   "apollo_ust_terraswap_lp_token_address": "terra1zlldk3h5m88sppalm2ag4yrwlc4zqexvykvjmu",
   "official_apollo_ust_astroport_pool": "terra1af47e4tl5gapkqr45vvxx7nygg5f9qkecjvpdm",
   "official_apollo_ust_astroport_lp_token_address": "terra12ekyxay62wa5zq8tcgqysw83hvtfs9qhe9j66v",
-  "apollo_staking_contract": "terra1e6x7s69efesxaryszxqxc6cmf8u4qm0zx0x0dq",
-
+ 
   "xdefi_token":"terra186tpamwvve5c7dhymrmk2r3zz3ynnurhupd7p9",
   "official_xdefi_ust_astroport_pool": "terra1zyc39h9d6tjf7e84xpw0wpuhg02sfnju3my6vl",
   "official_xdefi_ust_astroport_lp_token_address": "terra1tcctmat9yu23grgczpyeynl83echgvlc4uvzmg"
-  "xdefi_ust_astroport_lp_staking_contract": "terra1gazgqjfjzu7ws0g36k3c4uknp0e78ktjrqfvgk",
-  
+ 
   "wewsteth_token":"terra1hp84qsfk6qv0x2en8hdul3370a79qk90e59a5v",
   "official_wewsteth_ust_astroport_pool": "terra1zsvarphwyzlgjwx9xty0rezla9l7s0p5qd87pu",
   "official_wewsteth_ust_astroport_lp_token_address": "terra1mn8xw7ksu9wc38m4rnvdu9nu36ntur26gat4wj"  
-  "wewsteth_ust_lp_staking_contract": "",
-  
+ 
   "wewstSOL_token":"terra1lty87kmhht8hr0q5w62uszhs2sk85evwtyv6hy",
   "official_wewstsol_ust_astroport_pool": "terra1prwpl8h63l8nex58clk25wd4zpu0rvfuz2dvh4",
   "official_wewstsol_ust_astroport_lp_token_address": "terra1pmratq75tq4wtp36sedtl3g5awm9vt4ac9udhl"
-  "wsstsol_ust_lp_staking_contract": ""
-  
+
   "nexus_neth_token": "terra1em8dvzln8quptj9tuptf8tu73jyuv5jn6kqdwv",
   "official_neth_psi_astroport_pool": "terra1mt63aef37fx9z7jfadtgk8a5swxlxce9pjdgvy",
   "official_neth_psi_astroport_lp_token_address": "terra1dpzuan9dyp20ze7ttfv4n6vwjl9k0j9nppzq2s",
-
+  
   "nexus_nluna_token": "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe",
   "official_nluna_psi_astroport_pool": "terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee",
   "official_nluna_psi_astroport_lp_token_address": "terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2"
