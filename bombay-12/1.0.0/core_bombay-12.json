@@ -4,12 +4,15 @@
 
   "astro_token_address": "terra1jqcw39c42mf7ngq4drgggakk3ymljgd3r5c3r5",
   "multisig_address": "terra1vp629527wwvm9kxqsgn4fx2plgs4j5un0ea5yu",
+  
   "pairCodeID": 28366,
   "pairStableCodeID": 28367,
+  
   "astroport_factory_address": "terra15jsahkaf9p0qu8ye873p0u5z6g07wdad0tdq43",
-  "astroport_staking_contract": "terra1q55fwnn6wt9wvqmme9qmjt0ng6an9a2p8fypzh",
-  "astroport_generator_address": "terra1gjm7d9nmewn27qzrvqyhda8zsfl40aya7tvaw5",
-  "astroport_vesting_address": "terra1g73et67yraz33vtwtg8c7q39gq50z2q92dz822",
+  "router_address": "terra13wf295fj9u209nknz2cgqmmna7ry3d3j5kv7t4",
+  "staking_address": "terra1q55fwnn6wt9wvqmme9qmjt0ng6an9a2p8fypzh",
+  "generator_address": "terra1gjm7d9nmewn27qzrvqyhda8zsfl40aya7tvaw5",
+  "vesting_address": "terra1g73et67yraz33vtwtg8c7q39gq50z2q92dz822",
   
   "luna_ust_terraswap_pool": "terra156v8s539wtz0sjpn8y8a8lfg8fhmwa7fy22aff",
   "luna_ust_terraswap_lp_token_address": "terra1srf30cs8ax73y59gm64lkztnx0zexl8fpv3kx2",
