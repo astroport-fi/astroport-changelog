@@ -100,5 +100,10 @@
   
   "nexus_nluna_token": "terra1gzq2zd4skvnvgm2z48fdp0mxy2djmtk7sz4uhe",
   "official_nluna_psi_astroport_pool": "terra1uwf0yn9rnt7anpceqm7s00zfgevnwaaqde2eee",
-  "official_nluna_psi_astroport_lp_token_address": "terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2"
+  "official_nluna_psi_astroport_lp_token_address": "terra1kyjspjr054v00nw7g2fttk6fq9furq9wjsy0x2",
+  
+  "mars_token": "terra1qs7h830ud0a4hj72yr8f7jmlppyx7z524f7gw6",
+  "mars_ust_astroport_pool": "terra1z7250szwg9khf20a72r2u7qv2l4ndghkhhp4ev",
+  "mars_ust_astroport_lp_token_address": "terra1y6gpfvm2u03f6w22rsj2dpx22tyhf9fyqcxg59",
+  "generator_proxy_to_mars_ust_contract": "terra1yh0p438q0w3jhvss2twx7hvwq5nahe9l3hcc3r"
 }
