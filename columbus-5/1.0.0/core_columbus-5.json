@@ -1,7 +1,7 @@
 {
   "tokenCodeID": 1796,
 
-  "astro_multisig": "terra1c7m6j8ya58a2fkkptn8fgudx8sqjqvc8azq0ex",
+  "astro_multisig_address": "terra1c7m6j8ya58a2fkkptn8fgudx8sqjqvc8azq0ex",
   "astro_token_address": "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3",
   "astro_builder_unlock_address": "terra1fh27l8h4s0tfx9ykqxq5efq4xx88f06x6clwmr",
 
@@ -18,76 +18,6 @@
   "luna_ust_astroport_pool": "terra1m6ywlgn6wrjuagcmmezzz2a029gtldhey5k552",
   "luna_ust_astroport_lp_token_address": "terra1m24f7k4g66gnh9f7uncp32p722v0kyt3q4l3u5",
   
-  "anc_ust_astroport_pool": "terra1qr2k6yjjd5p2kaewqvg93ag74k6gyjr7re37fs",
-  "anc_ust_astroport_lp_token_address": "terra1wmaty65yt7mjw6fjfymkd9zsm6atsq82d9arcd",
-  
-  "mir_ust_astroport_pool": "terra143xxfw5xf62d5m32k3t4eu9s82ccw80lcprzl9",
-  "mir_ust_astroport_lp_token_address": "terra17trxzqjetl0q6xxep0s2w743dhw2cay0x47puc",
-  
-  "orion_ust_astroport_pool": "terra1mxyp5z27xxgmv70xpqjk7jvfq54as9dfzug74m",
-  "orion_ust_astroport_lp_token_address": "terra1w80npmymwhdtvcmrg44xmqqdnufu3gyfaytr9z",
-  
-  "stt_ust_astroport_pool": "terra1m95udvvdame93kl6j2mk8d03kc982wqgr75jsr",
-  "stt_ust_astroport_lp_token_address": "terra14p4srhzd5zng8vghly5artly0s53dmryvg3qc6",
-  
-  "vkr_ust_astroport_pool": "terra15s2wgdeqhuc4gfg7sfjyaep5cch38mwtzmwqrx",
-  "vkr_ust_astroport_lp_token_address": "terra1lw36qqz72mxajrfgkv24lahudq3ehmkpc305yc",
-  
-  "mine_ust_astroport_pool": "terra134m8n2epp0n40qr08qsvvrzycn2zq4zcpmue48",
-  "mine_ust_astroport_lp_token_address": "terra16unvjel8vvtanxjpw49ehvga5qjlstn8c826qe",
-  
-  "psi_ust_astroport_pool": "terra1v5ct2tuhfqd0tf8z0wwengh4fg77kaczgf6gtx",
-  "psi_ust_astroport_lp_token_address": "terra1cspx9menzglmn7xt3tcn8v8lg6gu9r50d7lnve",
-  
-  "apollo_ust_astroport_pool": "terra1zpnhtf9h5s7ze2ewlqyer83sr4043qcq64zfc4",
-  "apollo_ust_astroport_lp_token_address": "terra1zuktmswe9zjck0xdpw2k79t0crjk86fljv2rm0",
-  
-  "bluna_luna_astroport_pool": "terra1j66jatn3k50hjtg2xemnjm8s7y8dws9xqa5y8w",
-  "bluna_luna_astroport_lp_token_address": "terra1htw7hm40ch0hacm8qpgd24sus4h0tq3hsseatl",
-  
-  "xdefi_ust_astroport_pool": "terra1476fucrvu5tuga2nx28r3fctd34xhksc2gckgf",
-  "xdefi_ust_astroport_lp_token_address": "terra1krvq5hk3a37yeydzfrgjj00d8xygk5um9jas8p",
-  
-  "neth_psi_astroport_pool": "terra18hjdxnnkv8ewqlaqj3zpn0vsfpzdt3d0y2ufdz",
-  "neth_psi_astroport_lp_token_address": "terra1pjfqacx7k6dg63v2h5q96zjg7w5q25093wnkjc",
-  
-  "nluna_psi_astroport_pool": "terra10lv5wz84kpwxys7jeqkfxx299drs3vnw0lj8mz",
-  "nluna_psi_astroport_lp_token_address": "terra1t53c8p0zwvj5xx7sxh3qtse0fq5765dltjrg33",
-  
-  "stluna_luna_astroport_pool": "terra1gxjjrer8mywt4020xdl5e5x7n6ncn6w38gjzae",
-  "stluna_luna_astroport_lp_token_address": "terra1h2lasu3a5207yt7decg0s09z5ltw953nrgj820",
-  
-  "stsol_ust_astroport_pool": "terra18dq84qfpz267xuu0k47066svuaez9hr4xvwlex",
-  "stsol_ust_astroport_lp_token_address": "terra1cgvlpz6vltqa49jlj3yr2ddnwy22xw62k4433t",
-  
-  "steth_ust_astroport_pool": "terra1edurrzv6hhd8u48engmydwhvz8qzmhhuakhwj3",
-  "steth_ust_astroport_lp_token_address": "terra1qz4cv5lsfw4k2266q52z9rtz64n58paxy9d476"
-
-  "avax_luna_astroport_pool": "terra16jaryra6dgfvkd3gqr5tcpy3p2s37stpa9sk7s",
-  "avax_luna_astroport_lp_token": "terra1pme6xgsr0f6sdcq5gm2qs8dsc2v0h6gqzs8js5",
-  "bnb_luna_astroport_pool": "terra1tehmd65kyleuwuf3a362mhnupkpza29vd86sml",
-  "bnb_luna_astroport_lp_token": "terra1wk0lev7qneurzp2dzcauh2ktctwx6v079uvn7w",
-  "eth_luna_astroport_pool":  "terra1m32zs8725j9jzvva7zmytzasj392wpss63j2v0",
-  "eth_luna_astroport_lp_token": "terra1lmlv43teqcty6xldtg4f40sghnd2f8ehjz0qpk",
-  "sol_luna_astroport_pool": "terra16e5tgdxre44gvmjuu3ulsa64kc6eku4972yjp3",
-  "sol_luna_astroport_lp_token": "terra1x6jws8lh505gw7dl67a7qq077g9mn3cjj3v22r",
-  "matic_luna_astroport_pool": "terra1wr07qcmfqz2vxhcfr6k8xv8eh5es7u9mv2z07x",
-  "matic_luna_astroport_lp_token": "terra1n32fdqslpyug72zrcv8gwq37vjj0mxhy9p4g7z",
-  
-  "whUSDC_UST_astroport_pool": "terra1cevdyd0gvta3h79uh5t47kk235rvn42gzf0450",
-  "whUSDC_UST_astroport_lp_token_address": "terra1m4j80w4lustnjhszqm9ltdvfmrfptlwcznek4a",
-  "whBUSD_UST_astroport_pool": "terra1szt6cq52akhmzcqw5jhkw3tvdjtl4kvyk3zkhx",
-  "whBUSD_UST_astroport_lp_token_address": "terra186cxwpreuzqm9nhmaltycxfyqxz379aef752qw",
-  "avUSDC_UST_astroport_pool": "terra1qmxkqcgcgq8ch72k6kwu3ztz6fh8tx2xd76ws7",
-  "avUSDC_UST_astroport_lp_token_address": "terra1hkm7w33fpmnruxka9tykfsntl4s692kwr8hj27",
-  "soUSDC_UST_astroport_pool": "terra1cc6kqk0yl25hdpr5llxmx62mlyfdl7n0rwl3hq",
-  "soUSDC_UST_astroport_lp_token_address": "terra1yf9hh2zrpydwqnqaw4p5hqfzzhgv49jj24prew",
-  "weUSDC_UST_astroport_pool": "terra1x0ulpvp6m46c5j7t40nj24mjp900954ys2jsnu",
-  "weUSDC_UST_astroport_lp_token_address": "terra1lapdj4fcg936fpgdwewx55h7n79p4p9tzrg4lw",
-
-  "wgOHM_UST_astroport_pool": "terra1mv04l9m4xc6fntxnty265rsqpnn0nk8aq0c9ge",
-  "wgOHM_UST_astroport_lp_token_address": "terra160jxnp3qfxrrjrfhul3xens4ggw6le7p4m4e6g"
-
   "astro_ust_astroport_pool": "terra1l7xu2rl3c7qmtx3r5sd2tz25glf6jh8ul7aag7",
   "astro_ust_astroport_lp_token_address": "terra17n5sunn88hpy965mzvt3079fqx3rttnplg779g"
 }
