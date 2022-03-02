@@ -19,6 +19,6 @@
   "vesting_address": "terra1g73et67yraz33vtwtg8c7q39gq50z2q92dz822",
   "generator_address": "terra1gjm7d9nmewn27qzrvqyhda8zsfl40aya7tvaw5",
   
-  "official_astro_ust_astroport_pool": "terra1ec0fnjk2u6mms05xyyrte44jfdgdaqnx0upesr",
-  "official_astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry",
+  "astro_ust_astroport_pool": "terra1ec0fnjk2u6mms05xyyrte44jfdgdaqnx0upesr",
+  "astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry"
 }
