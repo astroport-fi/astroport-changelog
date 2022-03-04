@@ -4,7 +4,7 @@
   "astro_token_address": "terra1jqcw39c42mf7ngq4drgggakk3ymljgd3r5c3r5",
   "multisig_address": "terra1vp629527wwvm9kxqsgn4fx2plgs4j5un0ea5yu",
   "astro_builder_unlock_address": "terra1hccg0cfrcu0nr4zgt5urmcgam9v88peg9s7h6j",
-  "astral_assembly_address": "terra1qqwgda56ppdy3gdruv5xphcf3tgmgzw3rm7hgy",
+  "astral_assembly_address": "terra18v7rq7ksun8htlg9d4hx8taz9je535cnsdup84",
   
   "pairCodeID": 28366,
   "pairStableCodeID": 32735,
@@ -13,8 +13,9 @@
   "router_address": "terra13wf295fj9u209nknz2cgqmmna7ry3d3j5kv7t4",
   "maker_address": "terra14906rw2kyu50cdw25x0uymkrlqtgqxjemdfd0n",
   
-  "staking_address": "terra1h2smqfg9lmemewwde9a4vf8fcp6z8666kxdhzh",
-  "xastro_token_address": "terra1yufp7cv85qrxrx56ulpfgstt2gxz905fgmysq0",
+  "staking_address": "terra13l05a430rwtvupkn4gk7knsya9c083xf5w2247",
+  "xastro_token_address": "terra18ujhm23c6tygryu3wdzq27h9snr3wdcxeupmtf",
+  "vxastro_address": "terra1tu4a0p5pyqz6sjra84y3442e9gune9sw6qxl8s",
   
   "vesting_address": "terra1g73et67yraz33vtwtg8c7q39gq50z2q92dz822",
   "generator_address": "terra1gjm7d9nmewn27qzrvqyhda8zsfl40aya7tvaw5",
