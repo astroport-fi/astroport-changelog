@@ -13,6 +13,7 @@
   "wsstsol_ust_astro_lp_staking_contract": "terra188xjhn8h39ert7ezs0m2dlgsqd4vf6k6hmv4jw",
   "wewsteth_ust_astro_lp_staking_contract": "terra1za0ltkcxjpvfw8wnwhetj5mr5r05pl6dgy936g",
   "stluna_luna_astro_lp_staking_contract": "terra1r2ucpn7j8qcgvsvkzxr3x0698megrn2kn9nfwq",
+  "mars_ust_astro_lp_staking_contract": "terra1ww6sqvfgmktp0afcmvg78st6z89x5zr3tmvpss",
   
   "generator_proxy_to_xdefi_ust": "terra1wranc9ta64f0nwdyv842d7kdm7ae80kdl5tvne",
   "generator_proxy_to_apollo_ust": "terra1e5zw6ujvzcmmgh8rxlttddlk2t62j2lh5jtwe8",
@@ -27,5 +28,6 @@
   "generator_proxy_to_nexus_nluna_psi_contract": "terra17jm985ql5plu8ytakpfz6kjyag87m9f3l3aqfn",
   "generator_proxy_to_wsstsol_ust_contract": "terra19ganxu5n5xghz0ftp6jfczl5yf38yryctprmd2",
   "generator_proxy_to_wewsteth_ust_contract": "terra15re9z6l28vf4dfeu8zyfe8ax8cvjdxkfnmuwne",
-  "generator_proxy_to_stluna_luna_contract": "terra1hzkn3wr8qhmml6yu575tlz48j2lhgdahvx2ruk"
+  "generator_proxy_to_stluna_luna_contract": "terra1hzkn3wr8qhmml6yu575tlz48j2lhgdahvx2ruk",
+  "generator_proxy_to_mars_ust_contract": "terra1aqehsnrdadp7s8exny69h5vln3llp38wttv0cr"
 }
