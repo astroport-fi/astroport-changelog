@@ -14,6 +14,8 @@
   "wewsteth_ust_staking_contract": "terra1za0ltkcxjpvfw8wnwhetj5mr5r05pl6dgy936g",
   "stluna_luna_staking_contract": "terra1r2ucpn7j8qcgvsvkzxr3x0698megrn2kn9nfwq",
   "mars_ust_staking_contract": "terra1ww6sqvfgmktp0afcmvg78st6z89x5zr3tmvpss",
+  "orne_ust_staking_contract": "terra1z5uvpz8ny5tz2lng30ff0aqnm5uuvxaat6lwxm",
+  "wldo_stluna_staking_contract": "terra10t8rn7swtkmkfm56mmxwmk2v9xrv78fljsd3ez",
   
   "generator_proxy_to_xdefi_ust": "terra1wranc9ta64f0nwdyv842d7kdm7ae80kdl5tvne",
   "generator_proxy_to_apollo_ust": "terra1e5zw6ujvzcmmgh8rxlttddlk2t62j2lh5jtwe8",
@@ -22,12 +24,14 @@
   "generator_proxy_to_orion_ust": "terra12z0q65r2y3y56g970fghfderncf4a2nurta0sc",
   "generator_proxy_to_stt_ust": "terra16pnm59kxmgnp9kv6ye3ejnpevfmzdlllx0pake",
   "generator_proxy_to_vkr_ust": "terra1px6vx9uegszfycw9z75dfpmzqtwjtrpm20qck2",
-  "generator_proxy_to_mine_ust_contract": "terra1gty5d3hmegmrzu7uyrrm6mcksus5cumkrxxg0z",
-  "generator_proxy_to_psi_ust_contract": "terra1vtqv4j5v04x5ka5f84v9zuvt604u2rsqhjnpk8",
-  "generator_proxy_to_nexus_neth_psi_contract": "terra14fjehqxs03mad28tflkk7lqdru64h9cdsdm923",
-  "generator_proxy_to_nexus_nluna_psi_contract": "terra17jm985ql5plu8ytakpfz6kjyag87m9f3l3aqfn",
-  "generator_proxy_to_wsstsol_ust_contract": "terra19ganxu5n5xghz0ftp6jfczl5yf38yryctprmd2",
-  "generator_proxy_to_wewsteth_ust_contract": "terra15re9z6l28vf4dfeu8zyfe8ax8cvjdxkfnmuwne",
-  "generator_proxy_to_stluna_luna_contract": "terra1hzkn3wr8qhmml6yu575tlz48j2lhgdahvx2ruk",
-  "generator_proxy_to_mars_ust_contract": "terra1aqehsnrdadp7s8exny69h5vln3llp38wttv0cr"
+  "generator_proxy_to_mine_ust": "terra1gty5d3hmegmrzu7uyrrm6mcksus5cumkrxxg0z",
+  "generator_proxy_to_psi_ust": "terra1vtqv4j5v04x5ka5f84v9zuvt604u2rsqhjnpk8",
+  "generator_proxy_to_nexus_neth_psi": "terra14fjehqxs03mad28tflkk7lqdru64h9cdsdm923",
+  "generator_proxy_to_nexus_nluna_psi": "terra17jm985ql5plu8ytakpfz6kjyag87m9f3l3aqfn",
+  "generator_proxy_to_wsstsol_ust": "terra19ganxu5n5xghz0ftp6jfczl5yf38yryctprmd2",
+  "generator_proxy_to_wewsteth_ust": "terra15re9z6l28vf4dfeu8zyfe8ax8cvjdxkfnmuwne",
+  "generator_proxy_to_stluna_luna": "terra1hzkn3wr8qhmml6yu575tlz48j2lhgdahvx2ruk",
+  "generator_proxy_to_mars_ust": "terra1aqehsnrdadp7s8exny69h5vln3llp38wttv0cr",
+  "generator_proxy_to_orne_ust": "terra1dyuvfvjpuhqrmjly0xh3fhk207cyx8yrw2n736",
+  "generator_proxy_to_wldo_stluna": "terra1xf6dsqpqap3hczk9jd7938h5n8de8ap9ycxhvu"
 }
