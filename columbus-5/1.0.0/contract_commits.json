@@ -1,0 +1,15 @@
+{
+  "astro_multisig_commit": "",
+  "astro_token_commit": "",
+  "astro_builder_unlock_commit": "",
+  
+  "factory_commit": "",
+  "router_commit": "",
+  "maker_commit": "",
+  
+  "vesting_commit": "",
+  "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/ee098672c3e4ebb6655d29aa96382e86437b4a3e",
+  
+  "astro_ust_astroport_pool_commit": "",
+  "astro_ust_astroport_lp_token_commit": ""
+}
