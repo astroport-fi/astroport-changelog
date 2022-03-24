@@ -11,5 +11,9 @@
   "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/ee098672c3e4ebb6655d29aa96382e86437b4a3e",
   
   "astro_ust_astroport_pool_commit": "",
-  "astro_ust_astroport_lp_token_commit": ""
+  "astro_ust_astroport_lp_token_commit": "",
+
+  "lockdrop_commit": "",
+  "airdrop_commit": "",
+  "auction_commit": ""
 }
