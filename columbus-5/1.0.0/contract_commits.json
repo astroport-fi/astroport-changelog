@@ -15,5 +15,5 @@
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/05bfb278302d462c355e47ed67566a8a97f417dd",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/b02abbdc9c7a13d438ce4932016f7b74c19b27d7",
 
-  "generator_proxy_to_mirror": "https://github.com/astroport-fi/astro-generator-proxy-contracts/commit/e9b18aeb998f0fb7b869f622cc3fbc70ea2c2582"
+  "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astro-generator-proxy-contracts/commit/e9b18aeb998f0fb7b869f622cc3fbc70ea2c2582"
 }
