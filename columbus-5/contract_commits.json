@@ -17,7 +17,7 @@
   "airdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/c247513cc50e30ac2f7b5f2518caf555584a7cf1",
   "auction_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/c247513cc50e30ac2f7b5f2518caf555584a7cf1",
 
-  "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/05bfb278302d462c355e47ed67566a8a97f417dd",
+  "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0ed3a81c70082e6e04557404272d0f705c816f80",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0ed3a81c70082e6e04557404272d0f705c816f80",
 
   "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astro-generator-proxy-contracts/commit/e9b18aeb998f0fb7b869f622cc3fbc70ea2c2582"
