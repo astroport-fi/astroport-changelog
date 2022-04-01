@@ -7,8 +7,9 @@
   "astral_assembly_address": "terra1ujc6hpxcnq9kcq4e5qttf0z5cz2zykhwff2zm7",
   "assembly_treasury_address": "terra1avccqnkp834p7edjfppeu9phxc7ep7ex0jk3wk",
   
-  "pairCodeID": 28366,
+  "pairCodeID": 59259,
   "pairStableCodeID": 57874,
+  "pairbLUNALUNACodeID": 59078,
   
   "factory_address": "terra15jsahkaf9p0qu8ye873p0u5z6g07wdad0tdq43",
   "router_address": "terra13wf295fj9u209nknz2cgqmmna7ry3d3j5kv7t4",
