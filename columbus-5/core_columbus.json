@@ -15,6 +15,9 @@
   "vesting_address": "terra1hncazf652xa0gpcwupxfj6k4kl4k4qg64yzjyf",
   "generator_address": "terra1zgrx9jjqrfye8swykfgmd6hpde60j0nszzupp9",
   
+  "staking_address": "terra1f68wt2ch3cx2g62dxtc8v68mkdh5wchdgdjwz7",
+  "xastro_token_address": "terra14lpnyzc9z4g3ugr4lhm8s4nle0tq8vcltkhzh7",
+  
   "luna_ust_astroport_pool_address": "terra1m6ywlgn6wrjuagcmmezzz2a029gtldhey5k552",
   "luna_ust_astroport_lp_token_address": "terra1m24f7k4g66gnh9f7uncp32p722v0kyt3q4l3u5",
   
