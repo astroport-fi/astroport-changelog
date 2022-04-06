@@ -14,7 +14,7 @@
   "staking_commit": "https://github.com/astroport-fi/astroport-core/commit/dd1e682f196dd0e3d382fda7bea6737f104f39c7",
   "xastro_token_commit": "https://github.com/astroport-fi/astroport-core/commit/dd1e682f196dd0e3d382fda7bea6737f104f39c7",
 
-  "lockdrop_commit": "",
+  "lockdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/7e11bd4727e3cd825169d8ba736fbcaf7921e1ab",
   "airdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/c247513cc50e30ac2f7b5f2518caf555584a7cf1",
   "auction_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/c247513cc50e30ac2f7b5f2518caf555584a7cf1",
 
