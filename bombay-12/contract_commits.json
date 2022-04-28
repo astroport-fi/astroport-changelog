@@ -20,7 +20,7 @@
 
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0ed3a81c70082e6e04557404272d0f705c816f80",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0ed3a81c70082e6e04557404272d0f705c816f80",
-  "bluna_luna_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/116029e93511d56fa309f2fd392be532c85e2bde"
+  "bluna_luna_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/b6d84c0e55c861c899de6f6badcf6a631df60480"
 
   "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astro-generator-proxy-contracts/commit/e9b18aeb998f0fb7b869f622cc3fbc70ea2c2582"
 }
