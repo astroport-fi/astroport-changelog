@@ -14,13 +14,13 @@
   "staking_commit": "https://github.com/astroport-fi/astroport-core/commit/dd1e682f196dd0e3d382fda7bea6737f104f39c7",
   "xastro_token_commit": "https://github.com/astroport-fi/astroport-core/commit/dd1e682f196dd0e3d382fda7bea6737f104f39c7",
 
-  "lockdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/ce03aa29c0225a0064322cb5cf3b98873563bebd",
+  "lockdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/31be27283ebe0473898000268d1a75cba3960062",
   "airdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/c247513cc50e30ac2f7b5f2518caf555584a7cf1",
   "auction_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/c247513cc50e30ac2f7b5f2518caf555584a7cf1",
 
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0ed3a81c70082e6e04557404272d0f705c816f80",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0ed3a81c70082e6e04557404272d0f705c816f80",
-  "bluna_luna_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/b6d84c0e55c861c899de6f6badcf6a631df60480"
+  "bluna_luna_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/0efe86e258f432cf6c777370b59fce7263b46fc5"
 
   "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astro-generator-proxy-contracts/commit/e9b18aeb998f0fb7b869f622cc3fbc70ea2c2582"
 }
