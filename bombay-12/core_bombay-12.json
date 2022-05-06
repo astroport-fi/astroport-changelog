@@ -22,6 +22,9 @@
   "staking_address": "terra1h2smqfg9lmemewwde9a4vf8fcp6z8666kxdhzh",
   "xastro_token_address": "terra1yufp7cv85qrxrx56ulpfgstt2gxz905fgmysq0",
   
+  "vxastro_token_address": "terra103u2wpkghfrnwvqhdfgg037hthmuvwjqcsgxfq",
+  "vxastro_fee_distributor_address": "terra1juru8aeelf3rrp68uv27arazw0lvutduq5qza9",
+  
   "astro_ust_astroport_pool_address": "terra1ec0fnjk2u6mms05xyyrte44jfdgdaqnx0upesr",
   "astro_ust_astroport_lp_token_address": "terra18zjm4scu5wqlskwafclxa9kpa9l3zrvju4vdry"
 }
