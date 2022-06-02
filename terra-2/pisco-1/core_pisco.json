@@ -1,0 +1,20 @@
+{
+  "tokenCodeID": ,
+
+  "astro_multisig_address": "",
+  "astro_token_address": "",
+  "astro_builder_unlock_address": "",
+
+  "pairCodeID": ,
+  "pairStableCodeID": ,
+
+  "factory_address": "",
+  "router_address": "",
+  "maker_address": "",
+
+  "vesting_address": "",
+  "generator_address": "",
+
+  "staking_address": "",
+  "xastro_token_address": ""
+}
