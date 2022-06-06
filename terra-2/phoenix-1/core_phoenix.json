@@ -1,19 +1,23 @@
 {
-  "tokenCodeID": ,
+  "tokenCodeID": 69,
+  "whitelistCodeID": 70,
 
-  "astro_multisig_address": "",
-  "astro_token_address": "",
+  "astro_multisig_address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
+  "astro_token_address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+  "astro_builder_unlock_address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz ",
+  
+  "astro_whitelist": "terra17aq66zyakz8su32u8tkgwmqemf0sylvv9a23nz7c7ydvkerll28ssss0ug",
 
-  "pairCodeID": ,
-  "pairStableCodeID": ,
+  "pairCodeID": 71,
+  "pairStableCodeID": 72,
 
-  "factory_address": "",
-  "router_address": "",
-  "maker_address": "",
+  "factory_address": "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r",
+  "router_address": "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a",
+  "maker_address": "terra1ygcvxp9s054q8u2q4hvl52ke393zvgj0sllahlycm4mj8dm96zjsa45rzk",
 
-  "vesting_address": "",
-  "generator_address": "",
+  "vesting_address": "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3",
+  "generator_address": "terra1ksvlfex49desf4c452j6dewdjs6c48nafemetuwjyj6yexd7x3wqvwa7j9",
 
-  "staking_address": "",
-  "xastro_token_address": ""
+  "staking_address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
+  "xastro_token_address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8"
 }
