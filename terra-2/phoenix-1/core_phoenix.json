@@ -1,6 +1,8 @@
 {
   "tokenCodeID": 69,
   "whitelistCodeID": 70,
+  
+  "astro_airdrop": "terra15hlvnufpk8a3gcex09djzkhkz3jg9dpqvv6fvgd0ynudtu2z0qlq2fyfaq",
 
   "astro_multisig_address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
   "astro_token_address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
