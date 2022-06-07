@@ -3,8 +3,10 @@
   "stakedTokenCodeID": 305
   "whitelistCodeID": 301,
 
+  "astro_airdrop": "",
+    
   "astro_temporary_multisig": "terra190fxpjfkp6cygr2k9unzjurq42dyehqd579h5j",
-  "astro_multisig_address": "",
+  "astro_multisig_address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
   "astro_token_address": "terra167dsqkh2alurx997wmycw9ydkyu54gyswe3ygmrs4lwume3vmwks8ruqnv",
   "astro_builder_unlock_address": "terra1zqfv3hytn38k60jhfqvaja0j5gvyrpjgcsdxt8z65fgna3hy999sxxt7eg",
   
