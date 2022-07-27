@@ -6,7 +6,10 @@
 
   "astro_multisig_address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
   "astro_token_address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-  "astro_builder_unlock_address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz ",
+  "astro_builder_unlock_address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz",
+  
+  "astral_assembly_address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
+  "assembly_treasury_address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
   
   "astro_whitelist": "terra17aq66zyakz8su32u8tkgwmqemf0sylvv9a23nz7c7ydvkerll28ssss0ug",
 
