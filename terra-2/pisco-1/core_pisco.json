@@ -1,7 +1,7 @@
 {
   "tokenCodeID": 300,
   "stakedTokenCodeID": 305
-  "whitelistCodeID": 301,
+  "assemblyTreasuryCodeID": 301,
 
   "astro_airdrop": "terra1rvg9arrkqdymnchjld73se398v9v3740svs2dwnd9y0kxf2aym8spjzvpd",
     
@@ -12,7 +12,7 @@
   
   "astral_assembly_address": "terra195m6n5xq4rkjy47fn5y3s08tfmj3ryknj55jqvgq2y55zul9myzsgy06hk",
   
-  "astro_whitelist": "terra162zc8ssdd5q5lzudq9lxl2lvz74dsdn8hvw0zdk5nnj4k4dwsyas6j6asa",
+  "astro_assembly_treasury_address": "terra162zc8ssdd5q5lzudq9lxl2lvz74dsdn8hvw0zdk5nnj4k4dwsyas6j6asa",
 
   "pairCodeID": 302,
   "pairStableCodeID": 303,
