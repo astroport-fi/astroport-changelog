@@ -1,5 +1,7 @@
 {
   "astro_token_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  "astro_airdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/42664661f35ba5bca24682fb2d2470356817e00a",
+  "astro_buider_unlock_commit": "https://github.com/astroport-fi/astroport-governance/commit/db7464032cf7b377facb76c3f82dea20cb111d4c",
 
   "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/126d43216111df786472fe2a845c1e2fadfe4a36",
   "router_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
@@ -11,7 +13,7 @@
   "vesting_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
   "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/126d43216111df786472fe2a845c1e2fadfe4a36",
 
-  "staking_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  "staking_commit": "https://github.com/astroport-fi/astroport-core/commit/d67e1f5289b6ffb6a557748eca7eb1e061ce87a5",
   "xastro_token_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
 
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
