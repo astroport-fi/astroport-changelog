@@ -4,6 +4,9 @@
   "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/5543262dc9753b02663885daf1b02040c82b473d",
   "router_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
   "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  
+  "assembly_commit": "https://github.com/astroport-fi/astroport-governance/commit/3c3350728d99159e518328183fa117a173908db5",
+  "assembly_treasury_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
 
   "vesting_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
   "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/ec424c5d5490252a6d99ca3200533e90d66da834",
