@@ -1,6 +1,5 @@
 {
   "tokenCodeID": 69,
-  "whitelistCodeID": 70,
   
   "astro_airdrop": "terra15hlvnufpk8a3gcex09djzkhkz3jg9dpqvv6fvgd0ynudtu2z0qlq2fyfaq",
 
@@ -10,8 +9,6 @@
   
   "astral_assembly_address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
   "assembly_treasury_address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
-  
-  "astro_whitelist": "terra17aq66zyakz8su32u8tkgwmqemf0sylvv9a23nz7c7ydvkerll28ssss0ug",
 
   "pairCodeID": 71,
   "pairStableCodeID": 72,
