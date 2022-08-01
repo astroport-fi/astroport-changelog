@@ -1,5 +1,6 @@
 {
   "tokenCodeID": 300,
+  "whitelistCodeID": 301,
   "stakedTokenCodeID": 305,
 
   "astro_airdrop": "terra1rvg9arrkqdymnchjld73se398v9v3740svs2dwnd9y0kxf2aym8spjzvpd",
