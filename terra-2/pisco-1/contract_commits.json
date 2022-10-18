@@ -1,5 +1,7 @@
 {
   "astro_token_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  
+  "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/commit/fdbce9ff317216ef939560e81be7811bbf4fcfa0",
 
   "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/5543262dc9753b02663885daf1b02040c82b473d",
   "router_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
