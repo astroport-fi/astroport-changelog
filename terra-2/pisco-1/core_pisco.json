@@ -15,6 +15,8 @@
 
   "pairCodeID": 3172,
   "pairStableCodeID": 303,
+  
+  "ibc_controller": "terra18kaw48val5d9cy79xl0k7kq3x6y077v0hq9gwhwp7cnawn2mjr2qdwa2w2",
 
   "factory_address": "terra1z3y69xas85r7egusa0c7m5sam0yk97gsztqmh8f2cc6rr4s4anysudp7k0",
   "router_address": "terra1na348k6rvwxje9jj6ftpsapfeyaejxjeq6tuzdmzysps20l6z23smnlv64",
