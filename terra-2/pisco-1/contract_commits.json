@@ -3,6 +3,8 @@
   
   "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/commit/fdbce9ff317216ef939560e81be7811bbf4fcfa0",
 
+  "builder_unlock_commit": "https://github.com/astroport-fi/astroport-governance/commit/098c992f47b2c8be1110fd7f5a36a7e0b9598d29",
+
   "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/5543262dc9753b02663885daf1b02040c82b473d",
   "router_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
   "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
