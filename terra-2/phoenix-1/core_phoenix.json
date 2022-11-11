@@ -23,4 +23,7 @@
 
   "staking_address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
   "xastro_token_address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8"
+
+  "autonomy_wrapper": "terra1y5mhr4s94xfjh6gzemfxkdswtmzqm20zp0hg0t5q9ztjdmyw5j0qk4lwvs",
+  "autonomy_registry": "terra1y5mhr4s94xfjh6gzemfxkdswtmzqm20zp0hg0t5q9ztjdmyw5j0qk4lwvs"
 }
