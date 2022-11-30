@@ -21,5 +21,5 @@
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/7bedc6f27e59ef8b921a0980be9bc30c4aab7459",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
 
-  "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681"
+  "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astroport-core/tree/6d96537b2893d23ce848193698186876bb552cb1"
 }
