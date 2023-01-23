@@ -12,5 +12,7 @@
     "maker_address": "inj10ruu3f4n7rxjcvqq39xmcea0s7gsnf7k806yuy",
     
     "vesting_address": "inj1pgrgdv4gwlznqmfu7vhm5j4rpztt8zhqd62rld",
-    "generator_address": "inj1dfnw7f5rzxupj89fqp7qz65jvsu464xx2jl8lh"
+    "generator_address": "inj1dfnw7f5rzxupj89fqp7qz65jvsu464xx2jl8lh",
+    
+    "coin_registry": "inj1jtt079zrgn2hyjvekkautrtg8jnc4j2ju0fxnf"
 }
