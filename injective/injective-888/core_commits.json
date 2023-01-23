@@ -9,5 +9,7 @@
     "generator_commit": "https://github.com/astroport-fi/hidden_astroport_core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
 
     "constant_product_pair_commit": "https://github.com/astroport-fi/hidden_astroport_core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
-    "stable_pair_commit": "https://github.com/astroport-fi/hidden_astroport_core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42"
+    "stable_pair_commit": "https://github.com/astroport-fi/hidden_astroport_core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
+    
+    "coin_registry": "https://github.com/astroport-fi/hidden_astroport_core/commit/e312deb8b11862bd035fcc4f6745662a978fee08"
 }
