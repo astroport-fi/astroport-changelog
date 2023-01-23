@@ -1,7 +1,9 @@
 {
     "whitelistCodeID": 173,
     
-    "astro_multisig_address": "",
+    "astro_contract_owner": "inj1ng84tp5d9502fmxsjsc9ggkl8t7w2m5tuah8g4",
+    "astro_contract_admin": "inj1z4vwjh6g949vvwxhu4sj4677mq5lu4xyp0aap0",
+
     "astro_token_address": "inj1faccd69y862f73h3jay3qvxqfxtxt9wn43v564",
     
     "pairCodeID": 177,
