@@ -1,15 +1,17 @@
 {
-    "astro_token_commit": "https://github.com/astroport-fi/astroport-core/commit/55cb94ae0fbe3b4dae8950eb867d11f6c2fd154d",
+    "astro_token_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
    
-    "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
-    "router_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
-    "maker_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
+    "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
+    "router_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
+    "maker_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
   
-    "vesting_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
-    "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
+    "vesting_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
+    "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
 
-    "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
-    "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/7dfb1b6b58f1094f8225045063734926b81fdb42",
+    "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
+    "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
     
-    "coin_registry": "https://github.com/astroport-fi/hidden_astroport_core/commit/e312deb8b11862bd035fcc4f6745662a978fee08"
+    "coin_registry_commit": "https://github.com/astroport-fi/astroport_core/commit/874f5e7fa38e735c1c9ce5b15e737868c7b31e49",
+
+    "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/commit/a1ad1ea0d6b89e0f428375ce2daf99d7d320f839",
 }
