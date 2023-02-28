@@ -16,5 +16,7 @@
     "vesting_address": "inj1pgrgdv4gwlznqmfu7vhm5j4rpztt8zhqd62rld",
     "generator_address": "inj1dfnw7f5rzxupj89fqp7qz65jvsu464xx2jl8lh",
     
-    "coin_registry": "inj1jtt079zrgn2hyjvekkautrtg8jnc4j2ju0fxnf"
+    "coin_registry": "inj1jtt079zrgn2hyjvekkautrtg8jnc4j2ju0fxnf",
+    
+    "satellite": " inj1ng84tp5d9502fmxsjsc9ggkl8t7w2m5tuah8g4"
 }
