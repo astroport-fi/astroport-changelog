@@ -1,0 +1,22 @@
+{
+    "whitelistCodeID": 173,
+    
+    "astro_contract_owner": "inj1ng84tp5d9502fmxsjsc9ggkl8t7w2m5tuah8g4",
+    "astro_contract_admin": "inj1z4vwjh6g949vvwxhu4sj4677mq5lu4xyp0aap0",
+
+    "astro_token_address": "inj1faccd69y862f73h3jay3qvxqfxtxt9wn43v564",
+    
+    "pairCodeID": 177,
+    "pairStableCodeID": 179,
+
+    "factory_address": "inj1c4e2787cwawlqslph0yzn62wq4xpzzq9y9kjwj",
+    "router_address": "inj1rlv7fsxgu2a6z5xzemcumek0e0cy03xl62zgju",
+    "maker_address": "inj10ruu3f4n7rxjcvqq39xmcea0s7gsnf7k806yuy",
+    
+    "vesting_address": "inj1pgrgdv4gwlznqmfu7vhm5j4rpztt8zhqd62rld",
+    "generator_address": "inj1dfnw7f5rzxupj89fqp7qz65jvsu464xx2jl8lh",
+    
+    "coin_registry": "inj1jtt079zrgn2hyjvekkautrtg8jnc4j2ju0fxnf",
+    
+    "satellite": " inj1ng84tp5d9502fmxsjsc9ggkl8t7w2m5tuah8g4"
+}
