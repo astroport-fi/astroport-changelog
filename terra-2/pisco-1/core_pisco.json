@@ -12,6 +12,8 @@
   
   "astral_assembly_address": "terra195m6n5xq4rkjy47fn5y3s08tfmj3ryknj55jqvgq2y55zul9myzsgy06hk",
   "astro_assembly_treasury_address": "terra162zc8ssdd5q5lzudq9lxl2lvz74dsdn8hvw0zdk5nnj4k4dwsyas6j6asa",
+  
+  "coin_registry_address": "terra1lvvsa0ctq36vugy2l0zpuh4e8a0c2tuxdt07j9d388svevehy9pq6qwwkq",
 
   "pairCodeID": 3172,
   "pairStableCodeID": 303,
@@ -29,14 +31,6 @@
   "xastro_token_address": "terra1ctzthkc0nzseppqtqlwq9mjwy9gq8ht2534rtcj3yplerm06snmqfc5ucr",
   
   "assembly_address": "terra195m6n5xq4rkjy47fn5y3s08tfmj3ryknj55jqvgq2y55zul9myzsgy06hk",
-
-  "random_token": "terra1dvhew6vf87m8m49cqrszpf9ht9efy84wtxdn7cdqsnevnwuynxss3apnve",
-  "stbl_token": "terra1dw6s040xnv2sp8lfgeu8jjtwp0jtws6ahtmw2a3h9j9r0eddy47qesq8j2",
-  "stb_token": "terra1s50rr0vz05xmmkz5wnc2kqkjq5ldwjrdv4sqzf983pzfxuj7jgsq4ehcu2",
-  "pool_astro_luna": "terra1udsua9w6jljwxwgwsegvt6v657rg3ayfvemupnes7lrggd28s0wq7g8azm",
-  "pool_stb_luna": "terra10kypagsdkrc769dnxs0th3wk87t84vu6gvrfzfg9ee93rfanu32qqfluee",
-  "pool_stb_stbl": "terra15207c4rlvz49sr692flm4v4q87c8fhszk7j74avxuzv5kefaywvquthwjq",
-  "pool_rand_luna": "terra19t77ejpytkde75gmwly94a9pe9kce267fsdlnyjqh6z0267h0v2s8hn4tp"
   
   "autonomy_wrapper": "terra1y5mhr4s94xfjh6gzemfxkdswtmzqm20zp0hg0t5q9ztjdmyw5j0qk4lwvs",
   "autonomy_registry": "terra1y5mhr4s94xfjh6gzemfxkdswtmzqm20zp0hg0t5q9ztjdmyw5j0qk4lwvs"
