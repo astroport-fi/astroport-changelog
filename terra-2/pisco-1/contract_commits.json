@@ -4,15 +4,17 @@
   "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/commit/fdbce9ff317216ef939560e81be7811bbf4fcfa0",
 
   "builder_unlock_commit": "https://github.com/astroport-fi/astroport-governance/commit/098c992f47b2c8be1110fd7f5a36a7e0b9598d29",
+  
+  "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/commit/042b0768951422099f5d77224c320978cbfa92cc",
 
-  "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/5543262dc9753b02663885daf1b02040c82b473d",
-  "router_commit": "https://github.com/astroport-fi/astroport-core/commit/f9d3a3ec6197205e0a0d6782023257bb50cc61cb",
-  "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/042b0768951422099f5d77224c320978cbfa92cc",
+  "router_commit": "https://github.com/astroport-fi/astroport-core/commit/042b0768951422099f5d77224c320978cbfa92cc",
+  "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/042b0768951422099f5d77224c320978cbfa92cc",
   
   "assembly_commit": "https://github.com/astroport-fi/astroport-core/commit/88580c6249222f276819811c907ebda4d8c18941",
   "assembly_treasury_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
 
-  "vesting_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  "vesting_commit": "https://github.com/astroport-fi/astroport-core/tree/042b0768951422099f5d77224c320978cbfa92cc",
   "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/f3f7723b3103be23c02f2cb0874e79254e83f4e2",
 
   "staking_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
