@@ -1,8 +1,7 @@
 {
     "whitelistCodeID": 30,
     
-    "astro_contract_owner": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq",
-    "astro_contract_admin": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq",
+    "astr_multisig_address": "inj1f40uekafqkxf0vgplyl38euwhuyh7wrcvg0uz0",
 
     "astro_token_address": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
     
@@ -16,7 +15,7 @@
     "vesting_address": "inj1lq7etsvahc3rn6jnj3chvpx4d8hxwp4c3xy2wt",
     "generator_address": "inj1z354nkau8f0dukgwctq9mladvdwu6zcj8k4928",
     
-    "coin_registry": "inj1k5uunty0xf353jut6eq0zgk6qy4grc9wufut2c",
+    "coin_registry_address": "inj1k5uunty0xf353jut6eq0zgk6qy4grc9wufut2c",
 
-    "satellite": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq"
+    "satellite_address": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq"
 }
