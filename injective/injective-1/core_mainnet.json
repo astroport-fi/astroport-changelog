@@ -17,5 +17,7 @@
     
     "coin_registry_address": "inj1k5uunty0xf353jut6eq0zgk6qy4grc9wufut2c",
 
-    "satellite_address": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq"
+    "satellite_address": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq",
+    
+    "native_coin_wrapper": "inj1vqhamqddecntq2jdfe7el8uq4rk9qymfvhvdsm"
 }
