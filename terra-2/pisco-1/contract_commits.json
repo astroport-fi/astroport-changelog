@@ -7,7 +7,7 @@
   
   "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/commit/042b0768951422099f5d77224c320978cbfa92cc",
 
-  "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/042b0768951422099f5d77224c320978cbfa92cc",
+  "factory_commit": "https://github.com/astroport-fi/astroport_core/commit/b241fe9a4fd5d0875916dfd3b95fca80c92ca91d",
   "router_commit": "https://github.com/astroport-fi/astroport-core/commit/042b0768951422099f5d77224c320978cbfa92cc",
   "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/042b0768951422099f5d77224c320978cbfa92cc",
   
