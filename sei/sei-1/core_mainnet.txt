@@ -1,0 +1,19 @@
+{
+    "whitelistCodeID": ,
+
+    "astro_token_address": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+    
+    "pairCodeID": 11,
+    "pairStableCodeID": 7,
+
+    "factory_address": "sei1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3shh3qfl",
+    "router_address": "sei1d2r4s2q8kumpmvx6dyj77klhgm5e6fs9njmmz6ye7ukqa77ddtdsu72dc3",
+    "maker_address": "sei1d97kh6x55eudfdd0wxkzunxuvhnze88te9m3f5zft59e5ygur8eq4588x0",
+    
+    "vesting_address": "sei146ypndztcmmrmyxef7e20cul82gh43vjnw4uacwdvg5sp9kva7sqlrct9t",
+    "generator_address": "sei13hwj6afyxgue26f966hd5jkcvvjeruv7f9cdtd5d9mrtyrnn73ysp04nt4",
+    
+    "coin_registry": "sei1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrsgshtdj",
+    
+    "satellite": "sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx"
+}
