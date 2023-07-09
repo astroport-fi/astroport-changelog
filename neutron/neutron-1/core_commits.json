@@ -1,17 +1,17 @@
 {
-    "astro_token_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+    "astro_token_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
    
-    "factory_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
-    "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
-    "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+    "factory_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
+    "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
+    "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
   
-    "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
-    "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+    "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
+    "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
 
-    "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
-    "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+    "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
+    "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
     
-    "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+    "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.7.1",
 
     "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
 }
