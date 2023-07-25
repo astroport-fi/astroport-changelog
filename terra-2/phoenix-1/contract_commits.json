@@ -11,7 +11,7 @@
   "assembly_treasury_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
 
   "vesting_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
-  "generator_commit": "https://github.com/astroport-fi/astroport-core/commit/763ca768687bafd51502dfe18e638dc1b0e24fa4",
+  "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
 
   "staking_commit": "https://github.com/astroport-fi/astroport-core/commit/d67e1f5289b6ffb6a557748eca7eb1e061ce87a5",
   "xastro_token_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
