@@ -4,7 +4,7 @@
   "astro_buider_unlock_commit": "https://github.com/astroport-fi/astroport-governance/commit/db7464032cf7b377facb76c3f82dea20cb111d4c",
 
   "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/126d43216111df786472fe2a845c1e2fadfe4a36",
-  "router_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
   "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
   
   "assembly_commit": "https://github.com/astroport-fi/astroport-governance/commit/8573d731d066cd45bac4a8ef76523fc4fea879a2",
