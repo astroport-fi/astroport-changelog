@@ -2,7 +2,7 @@
     "astro_token_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
    
     "factory_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
-    "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+    "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
     "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
   
     "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
