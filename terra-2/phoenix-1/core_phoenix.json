@@ -18,15 +18,13 @@
   "router_address": "terra18plp90j0zd596zt3zdsf0w9vvk5ukwlwzwkksxv9mdu8rscat9sqndk5qz",
   "maker_address": "terra1ygcvxp9s054q8u2q4hvl52ke393zvgj0sllahlycm4mj8dm96zjsa45rzk",
 
+  "coin_registry": "terra1zuf8fla02926nhpfvk09k2pg6qv9aayflp0qt4a0msppu2h4exqs6af275",
+
   "vesting_address": "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3",
   "generator_address": "terra1ksvlfex49desf4c452j6dewdjs6c48nafemetuwjyj6yexd7x3wqvwa7j9",
 
   "staking_address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
   "xastro_token_address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
   
-  "ibc_controller_address": "terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660",
-  
-  "autonomy_wrapper": "terra1h0fjeuk2ksyseccujp5jm4du4q07mt263k2zu8g95f4qcq82qjgsrw2vp3",
-  "autonomy_registry": "terra1q9nt4sjh9c9dz7fcm0pg5u8l07hmwtkh8a3wanv9luskm2s63qjq05urvp",
-  "autonomy_grantee": "terra1fgxyczqqwsf3x674ktrlzru38uhk7k38sjuxyf"
+  "ibc_controller_address": "terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660"
 }
