@@ -20,5 +20,7 @@
     "satellite_address": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq",
     
     "native_coin_wrapper_address": "inj1vqhamqddecntq2jdfe7el8uq4rk9qymfvhvdsm",
-    "cw20_wrapped_inj_address": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55"
+    "cw20_wrapped_inj_address": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
+
+    "liquidity_manager_address": "inj1tt95g04lcm8d5kmsumymtku26c3q2e9ee3d5p2"
 }
