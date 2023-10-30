@@ -19,7 +19,9 @@
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/7bedc6f27e59ef8b921a0980be9bc30c4aab7459",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
   
-  "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/commit/2b98128012c373d4ed1cb5459e69f38461e262e2"
+  "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/commit/2b98128012c373d4ed1cb5459e69f38461e262e2",
+
+  "liquidity_manager_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.6.1",
 
   "generator_proxy_to_mirror_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681"
 }
