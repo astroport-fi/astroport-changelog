@@ -14,4 +14,6 @@
     "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
 
     "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
+
+    "liquidity_manager_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.6.1"
 }
