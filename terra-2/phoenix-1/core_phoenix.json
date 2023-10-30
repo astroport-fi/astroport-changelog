@@ -27,5 +27,7 @@
   "staking_address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
   "xastro_token_address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
   
-  "ibc_controller_address": "terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660"
+  "ibc_controller_address": "terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660",
+
+  "liquidity_manager_address": "terra1pj43kem5evz2mhynahd20m7etktcy497rat3mfeh7y074heqfu9s48v7q4"
 }
