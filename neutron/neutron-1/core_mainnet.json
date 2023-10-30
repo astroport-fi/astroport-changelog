@@ -14,7 +14,9 @@
     "vesting_address": "neutron178d2p84ldlzcl53clc25uy6mx3trazxdy08akhjp3qf5chlmccgq6hv2pl",
     "generator_address": "neutron1jz58yjay8uq8zkfw95ngyv3m2wfs2zjef9vdz75d9pa46fdtxc5sxtafny",
     
-    "coin_registry": "neutron1jzzv6r5uckwd64n6qan3suzker0kct5w565f6529zjyumfcx96kqtcswn3",
+    "coin_registry_address": "neutron1jzzv6r5uckwd64n6qan3suzker0kct5w565f6529zjyumfcx96kqtcswn3",
     
-    "satellite": "neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07"
+    "satellite_address": "neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07",
+
+    "liquidity_manager_address": "neutron1wcnxmv6q2uq2nlme9f8ema6l37rkdtk3z7amvqdz39m88kdtzhfqllhv2m"
 }
