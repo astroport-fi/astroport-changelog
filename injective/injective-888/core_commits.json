@@ -17,5 +17,6 @@
 
     "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.2.1",
     
-    "native_coin_wrapper_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.5.0"
+    "native_coin_wrapper_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.5.0",
+    "liquidity_manager_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.6.1"
 }
