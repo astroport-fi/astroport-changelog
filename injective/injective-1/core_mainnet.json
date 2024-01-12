@@ -1,12 +1,13 @@
 {
     "whitelistCodeID": 30,
     
-    "astr_multisig_address": "inj1f40uekafqkxf0vgplyl38euwhuyh7wrcvg0uz0",
+    "astr_multisig_address": "inj1fnumgs2wns8lra7zq36783set5cgud7l6dkf6v",
 
     "astro_token_address": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
     
-    "pairCodeID": 25,
-    "pairStableCodeID": 26,
+    "pairCodeID": 212,
+    "pairStableCodeID": 211,
+    "pairPCLCodeID": 244,
 
     "factory_address": "inj19aenkaj6qhymmt746av8ck4r8euthq3zmxr2r6",
     "router_address": "inj1y3h85v7z9v9dtdu4mpv6hjj4zfxp9d3atmv6hc",
