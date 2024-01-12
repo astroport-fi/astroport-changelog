@@ -14,7 +14,7 @@
 
     "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.0.0",
 
-    "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.2.1",
+    "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
     
     "native_coin_wrapper_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.5.0",
 
