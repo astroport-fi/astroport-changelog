@@ -2,18 +2,20 @@
     "whitelistCodeID": 108,
 
     "astro_token_address": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA",
-    
+
     "pairCodeID": 114,
     "pairStableCodeID": 110,
 
     "factory_address": "neutron1jj0scx400pswhpjes589aujlqagxgcztw04srynmhf0f6zplzn2qqmhwj7",
     "router_address": "neutron12jm24l9lr9cupufqjuxpdjnnweana4h66tsx5cl800mke26td26sq7m05p",
     "maker_address": "neutron18hswpyxvgpl3zfqp0pfyz5wdlv3ky79n5jjr70hdxwy99zr80kgsrfdyrf",
-    
+
     "vesting_address": "neutron1t5agy2p7x9zkt8jnx7pmg2n9qe8d5c08t4nw2t250krx22ly2wjssgcm25",
     "generator_address": "neutron1mgersa0snsudccqrtsyppxerq7unwtxv45t9p9l66hrmcwhlkf5q85a4af",
-    
+
     "coin_registry": "neutron1neyg8tpqtj9vmqwqfv34qtq0jsmp340hmsesz4rke6jep6yh5kys5378jn",
-    
-    "satellite": "neutron18mcny8tjmy7rw4x3j9ph86gk0hk47dr5crnfc4njqaxc6xvv9a3sumj0cy"
+
+    "satellite": "neutron18mcny8tjmy7rw4x3j9ph86gk0hk47dr5crnfc4njqaxc6xvv9a3sumj0cy",
+
+    "liquidity_manager": "neutron1yuv97sxmtpfpnzjdfq9c8y6jwz4rz8lu2znjxfjlsd3lkhng3eksc9arak"
 }
