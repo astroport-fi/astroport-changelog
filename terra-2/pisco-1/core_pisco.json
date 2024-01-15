@@ -15,9 +15,10 @@
   
   "coin_registry_address": "terra1lvvsa0ctq36vugy2l0zpuh4e8a0c2tuxdt07j9d388svevehy9pq6qwwkq",
 
-  "pairCodeID": 3172,
-  "pairStableCodeID": 303,
-  
+  "pairCodeID": 12129,
+  "pairStableCodeID": 12119,
+  "pairPCLCodeID": 12117,
+
   "ibc_controller_address": "terra18kaw48val5d9cy79xl0k7kq3x6y077v0hq9gwhwp7cnawn2mjr2qdwa2w2",
 
   "factory_address": "terra1z3y69xas85r7egusa0c7m5sam0yk97gsztqmh8f2cc6rr4s4anysudp7k0",
@@ -31,7 +32,6 @@
   "xastro_token_address": "terra1ctzthkc0nzseppqtqlwq9mjwy9gq8ht2534rtcj3yplerm06snmqfc5ucr",
   
   "assembly_address": "terra195m6n5xq4rkjy47fn5y3s08tfmj3ryknj55jqvgq2y55zul9myzsgy06hk",
-  
-  "autonomy_wrapper": "terra1y5mhr4s94xfjh6gzemfxkdswtmzqm20zp0hg0t5q9ztjdmyw5j0qk4lwvs",
-  "autonomy_registry": "terra1y5mhr4s94xfjh6gzemfxkdswtmzqm20zp0hg0t5q9ztjdmyw5j0qk4lwvs"
+
+  "liquidity_manager_address": "terra1jqna9yffwdffxl99yuzrx0uqpjphv3vzdcf0r8dmqsdmtv304anqv3dtay"
 }
