@@ -11,9 +11,9 @@
   "astral_assembly_address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
   "assembly_treasury_address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
 
-  "pairCodeID": 392,
-  "pairStableCodeID": 428,
-  "pairConcentratedCodeID": 1939,
+  "pairCodeID": 428,
+  "pairStableCodeID": 392,
+  "pairConcentratedCodeID": 2267,
 
   "factory_address": "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r",
   "router_address": "terra18plp90j0zd596zt3zdsf0w9vvk5ukwlwzwkksxv9mdu8rscat9sqndk5qz",

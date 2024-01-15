@@ -3,14 +3,15 @@
   "astro_airdrop_commit": "https://github.com/astroport-fi/astroport-bootstrapping/commit/42664661f35ba5bca24682fb2d2470356817e00a",
   "astro_buider_unlock_commit": "https://github.com/astroport-fi/astroport-governance/commit/db7464032cf7b377facb76c3f82dea20cb111d4c",
 
-  "factory_commit": "https://github.com/astroport-fi/astroport-core/commit/126d43216111df786472fe2a845c1e2fadfe4a36",
+  "factory_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
   "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
-  "maker_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
-  
+  "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+  "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
+
   "assembly_commit": "https://github.com/astroport-fi/astroport-governance/commit/8573d731d066cd45bac4a8ef76523fc4fea879a2",
   "assembly_treasury_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
 
-  "vesting_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
+  "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.5.0",
   "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
 
   "staking_commit": "https://github.com/astroport-fi/astroport-core/commit/d67e1f5289b6ffb6a557748eca7eb1e061ce87a5",
@@ -18,8 +19,10 @@
 
   "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/commit/7bedc6f27e59ef8b921a0980be9bc30c4aab7459",
   "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
-  
-  "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/commit/2b98128012c373d4ed1cb5459e69f38461e262e2",
+  "pcl_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.5",
+
+  "ibc_controller_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
+  "cw20_ics20_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.0.0",
 
   "liquidity_manager_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.6.1",
 
