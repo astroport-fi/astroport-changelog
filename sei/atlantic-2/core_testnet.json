@@ -4,7 +4,7 @@
     "astro_contract_owner": "",
     "astro_contract_admin": "",
 
-    "astro_token_address": "sei1ghmydqrcxuhugwttfnqtq8tzskj9ya8nclxs9xmlw0yu6cg7mdgsg3wmgd",
+    "astro_token_address": "ibc/4552BF8EE9C7AFD889CACF426F866350AAE28DC73507B1411972C8C1B9B38732",
     
     "pairCodeID": 233,
     "pairStableCodeID": 229,
@@ -18,5 +18,7 @@
     
     "coin_registry": "sei1jg6rauqczaswmfnlm0c7tuesgk82350hm2k7v6577yx25p9kg65s968tqq",
     
-    "satellite": "sei1uj3cnkg4h7s88vvj7xqpxgk9hqd3qul3vnuws4jqmfks3vmu877s27mq27"
+    "satellite": "sei1uj3cnkg4h7s88vvj7xqpxgk9hqd3qul3vnuws4jqmfks3vmu877s27mq27",
+
+    "liquidity_manager_address": "sei1l9srzd3ds883uhu0w4ex8u4yqc55tj38jtqsm4s68fy32we3gxjqhcm580"
 }
