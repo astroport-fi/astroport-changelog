@@ -24,6 +24,7 @@
 
   "vesting_address": "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3",
   "generator_address": "terra1ksvlfex49desf4c452j6dewdjs6c48nafemetuwjyj6yexd7x3wqvwa7j9",
+  "incentives_address": "terra1eywh4av8sln6r45pxq45ltj798htfy0cfcf7fy3pxc2gcv6uc07se4ch9x",
 
   "staking_address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
   "xastro_token_address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",

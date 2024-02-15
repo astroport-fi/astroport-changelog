@@ -7,6 +7,7 @@
   
     "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
     "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
+    "incentives_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.11.0",
 
     "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
     "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",

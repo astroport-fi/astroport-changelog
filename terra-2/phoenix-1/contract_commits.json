@@ -13,6 +13,7 @@
 
   "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.5.0",
   "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
+  "incentives_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.11.0",
 
   "staking_commit": "https://github.com/astroport-fi/astroport-core/commit/d67e1f5289b6ffb6a557748eca7eb1e061ce87a5",
   "xastro_token_commit": "https://github.com/astroport-fi/astroport-core/tree/c216ecd4f350113316be44d06a95569f451ac681",
