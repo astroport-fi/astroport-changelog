@@ -1,10 +1,8 @@
 {
-    "whitelistCodeID": null,
-    "astro_token_address": "NOT SET YET",
-    "pairConcentratedCodeID": NOT_SET_YET,
+    "astro_token_address": "ibc/C25A2303FE24B922DAFFDCE377AC5A42E5EF746806D32E2ED4B610DE85C203F7",
+    "pairConcentratedCodeID": "NOT_SET_YET",
     "factory_address": "osmo1246fnsutktuqqzrru673pqwtt64n288004j5fauyuezwr54llw5sl6drp6",
     "maker_address": "osmo1kl96qztvtrz9h8873jlcl9fz0fmgtdgfdw65shm9frr9y7xvc83qstjd8h",
     "coin_registry_address": "osmo1km2h2nkecuhp3xgnektgzgqd3l4p4gjwemtgw66g990efhxt0thq47k3zv",
     "satellite_address": "osmo1pfeve3esg5rhhkfhlujxtthc25akcf3zpa3t9whghvvp2v5v92ps0z30r6",
-    "liquidity_manager_address": "NOT SET YET"
 }
