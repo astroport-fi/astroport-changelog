@@ -11,7 +11,7 @@
 
     "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
     "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
-    "pcl_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.5",
+    "pcl_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.7",
     "transmuter_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.10.0",
 
     "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.8.0",
