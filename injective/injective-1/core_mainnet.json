@@ -3,8 +3,9 @@
     
     "astr_multisig_address": "inj1fnumgs2wns8lra7zq36783set5cgud7l6dkf6v",
 
-    "astro_token_address": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-    
+    "astro_cw20_token_address": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+    "astro_token_address": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
+
     "pairCodeID": 212,
     "pairStableCodeID": 211,
     "pairPCLCodeID": 244,
@@ -25,5 +26,7 @@
     "native_coin_wrapper_address": "inj1vqhamqddecntq2jdfe7el8uq4rk9qymfvhvdsm",
     "cw20_wrapped_inj_address": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
 
-    "liquidity_manager_address": "inj1tt95g04lcm8d5kmsumymtku26c3q2e9ee3d5p2"
+    "liquidity_manager_address": "inj1tt95g04lcm8d5kmsumymtku26c3q2e9ee3d5p2",
+
+    "astro_converter": "inj14h73u5tr8ud200lkz0du4qtfy8twpqv39u4xw4"
 }

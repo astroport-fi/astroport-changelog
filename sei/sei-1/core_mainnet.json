@@ -1,8 +1,9 @@
 {
     "whitelistCodeID": null,
 
-    "astro_token_address": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
-    
+    "astro_cw20_token_address": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+    "astro_token_address": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
+
     "pairCodeID": 471,
     "pairStableCodeID": 472,
     "PCLCodeID": 478,
@@ -20,5 +21,7 @@
     
     "satellite_address": "sei12fykm2xhg5ces2vmf4q2aem8c958exv3v0wmvrspa8zucrdwjeds2e2ntx",
 
-    "liquidity_manager_address": "sei1qyemc2lppaqtsedqh54erdgzq4x7pa6eqmfsln5x6ryj0s8qz6hql3ne48"
+    "liquidity_manager_address": "sei1qyemc2lppaqtsedqh54erdgzq4x7pa6eqmfsln5x6ryj0s8qz6hql3ne48",
+
+    "astro_converter": "sei1ccpfvhy82vcs93zcyrht3dky898arggddh72p2gjyp2tvw2lktms93n57n"
 }

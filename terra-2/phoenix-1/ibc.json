@@ -1,14 +1,4 @@
 {
-  "injective": {
-    "ics20_channel": "channel-91",
-    "governance_channel": "channel-92"
-  },
-  "neutron": {
-    "ics20_channel": "channel-167",
-    "governance_channel": "channel-168"
-  },
-  "sei": {
-    "ics20_channel": "channel-171",
-    "governance_channel": "channel-172"
-  }
+  "ics20_channel": "channel-229",
+  "governance_channel": "channel-396"
 }

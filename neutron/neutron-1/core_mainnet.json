@@ -1,8 +1,10 @@
 {
     "whitelistCodeID": null,
 
-    "astro_token_address": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
-    
+    "astro_token_address": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro",
+    "xastro_token_address": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO",
+    "astro_cw20_token_address": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+
     "pairCodeID": 485,
     "pairStableCodeID": 486,
     "pairConcentratedCodeID": 707,
@@ -18,7 +20,12 @@
 
     "coin_registry_address": "neutron1jzzv6r5uckwd64n6qan3suzker0kct5w565f6529zjyumfcx96kqtcswn3",
     
-    "satellite_address": "neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07",
+    "assembly_address": "neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07",
+    "astro_treasury": "neutron19sq60cxtsjcx7vw25c63wyt27fxevuh6l7vxcn04u0t0rueyfpvq4mc75l",
+    "ibc_controller": "neutron1atj2yz94k8l94yp7rwfm7uk4qjtcr3srfkk6d5jg0css6dx8utrqwtxjj6",
+    "staking": "neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn",
+    "astro_builder_unlock_address": "neutron1yfzj68we8q50mv2t37p4dqxwwz7d5uz0g54cgnsn8rwa0umnf3sqzz4g8y",
+    "astro_converter": "neutron138yjfm6shxju4jpxsrt4snlx034ahnrwempjca7g203km0dy39mqxkcyg6",
 
     "liquidity_manager_address": "neutron1wcnxmv6q2uq2nlme9f8ema6l37rkdtk3z7amvqdz39m88kdtzhfqllhv2m"
 }

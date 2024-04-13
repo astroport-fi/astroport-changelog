@@ -5,10 +5,11 @@
   "astro_airdrop": "terra15hlvnufpk8a3gcex09djzkhkz3jg9dpqvv6fvgd0ynudtu2z0qlq2fyfaq",
 
   "astro_multisig_address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
-  "astro_token_address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+  "astro_cw20_token_address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+  "astro_token_address": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
   "astro_builder_unlock_address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz",
   
-  "astral_assembly_address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
+  "satellite_address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
   "assembly_treasury_address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
 
   "pairCodeID": 428,
@@ -31,5 +32,7 @@
   
   "ibc_controller_address": "terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660",
 
-  "liquidity_manager_address": "terra1pj43kem5evz2mhynahd20m7etktcy497rat3mfeh7y074heqfu9s48v7q4"
+  "liquidity_manager_address": "terra1pj43kem5evz2mhynahd20m7etktcy497rat3mfeh7y074heqfu9s48v7q4",
+
+  "astro_converter": "terra1jyu4nct8ake3k8y8g42n8dvc9umtl5cktmtcy6rfdygse62fp7qse5rwjm"
 }
