@@ -12,7 +12,7 @@
     "governance_channel": "channel-2110"
   },
   "osmosis": {
-    "ics20_channel": "channel-874",
+    "ics20_channel": "channel-10",
     "governance_channel": "channel-2106"
   }
 }
