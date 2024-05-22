@@ -1,7 +1,7 @@
 {
-    "factory_commit": "https://github.com/astroport-fi/astroport-on-osmosis/releases/tag/v1.0.0",
-    "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.0",
-    "pcl_pair_commit": "https://github.com/astroport-fi/astroport-on-osmosis/releases/tag/v1.0.0-mainnet",
-    "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.0",
-    "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0"
+  "factory_commit": "https://github.com/astroport-fi/astroport-on-osmosis/releases/tag/v1.0.0",
+  "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.0",
+  "pcl_pair_commit": "https://github.com/astroport-fi/astroport-on-osmosis/releases/tag/v1.1.1",
+  "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.0",
+  "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0"
 }
