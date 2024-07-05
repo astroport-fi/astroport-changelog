@@ -1,0 +1,10 @@
+{
+  "astro_token_address": "factory/osmo1gv3su99m8pvvm2hqkhgwqyzrtlec4nv682cqn0/astro",
+  "pairPCLCodeID": 8611,
+  "factory_address": "osmo1c0g9dhn93flxuxwx3vufkutefhmss9kh8rpl2w7jtet8vn24puwqreglzc",
+  "maker_address": "osmo1xx8x5xws60krvcdude4esel6xwgs2tklmqawzjd24yyh64v2cxgqw38s9q",
+  "vesting_address": "osmo1apje98ymce5sddlncvkcw6sdxz4ypgr5gqumnm5szyxv3u6ww4jqgrs2s0",
+  "incentives_address": "osmo155mh2qarnta8qzj57a60n63ewke7snrzg2epr8c9tur9tk3zkt8qqh0ch8",
+  "coin_registry": "osmo1kz7xu3kmkeftcdzldtc392ua9rwvllyps5sar8e02hd5adc2gpwqqx494r",
+  "satellite": "osmo1746e8qvs6d6uwuylc6t6u5czhcrn2mjgwc34kacg3r9dp60pkt7qnxpp87"
+}
