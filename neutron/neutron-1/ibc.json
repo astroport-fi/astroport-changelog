@@ -1,7 +1,7 @@
 {
   "injective": {
     "ics20_channel": "channel-60",
-    "governance_channel": "NOT SET YET"
+    "governance_channel": "channel-4895"
   },
   "terra": {
     "ics20_channel": "channel-25",
