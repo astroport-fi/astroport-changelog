@@ -1,18 +1,22 @@
 {
   "injective": {
     "ics20_channel": "channel-60",
-    "governance_channel": "channel-4895"
+    "governance_channel": "channel-4895",
+    "vxastro_channel": "channel-5387"
   },
   "terra": {
     "ics20_channel": "channel-25",
-    "governance_channel": "channel-2112"
+    "governance_channel": "channel-2112",
+    "vxastro_channel": "channel-5373"
   },
   "sei": {
     "ics20_channel": "channel-2016",
-    "governance_channel": "channel-2110"
+    "governance_channel": "channel-2110",
+    "vxastro_channel": "channel-5375"
   },
   "osmosis": {
     "ics20_channel": "channel-10",
-    "governance_channel": "channel-2106"
+    "governance_channel": "channel-2106",
+    "vxastro_channel": "channel-5374"
   }
 }

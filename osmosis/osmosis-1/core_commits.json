@@ -2,8 +2,10 @@
   "factory_commit": "https://github.com/astroport-fi/astroport-on-osmosis/releases/tag/v1.0.0",
   "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.0",
   "pcl_pair_commit": "https://github.com/astroport-fi/astroport-on-osmosis/releases/tag/v1.1.1",
-  "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.0",
-  "incentives_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v4.0.0",
+  "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v5.2.0",
+  "incentives_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v5.7.0",
   "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v4.0.0",
-  "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0"
+  "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
+  "emissions_controller_commit": "https://github.com/astroport-fi/astroport-governance/releases/tag/v4.2.1",
+  "vx_astro_commit": "https://github.com/astroport-fi/astroport-governance/releases/tag/v4.2.1"
 }

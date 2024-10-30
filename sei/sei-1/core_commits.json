@@ -1,22 +1,18 @@
 {
-    "astro_token_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.3.1",
-
-    "factory_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.10.0",
-    "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
-    "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.3.1",
-  
-    "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.3.1",
-    "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
-    "incentives_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.11.0",
-
-    "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
-    "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
-    "pcl_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.5",
-    "transmuter_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.1",
-
-    "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.3.1",
-
-    "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
-
-    "liquidity_manager_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.6.1"
+  "astro_token_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.3.1",
+  "factory_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.10.0",
+  "router_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
+  "maker_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v4.0.0",
+  "vesting_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.3.1",
+  "generator_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.2.2",
+  "incentives_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v5.7.0-cw1.0",
+  "constant_product_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
+  "stable_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.4",
+  "pcl_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v2.9.7",
+  "transmuter_pair_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.12.1",
+  "coin_registry_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v5.2.0",
+  "satellite_commit": "https://github.com/astroport-fi/astroport_ibc/releases/tag/v1.1.0",
+  "liquidity_manager_commit": "https://github.com/astroport-fi/astroport-core/releases/tag/v3.6.1",
+  "emissions_controller_commit": "https://github.com/astroport-fi/astroport-governance/releases/tag/v4.2.1",
+  "vx_astro_commit": "https://github.com/astroport-fi/astroport-governance/releases/tag/v4.2.1"
 }

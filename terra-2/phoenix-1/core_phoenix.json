@@ -1,38 +1,30 @@
 {
   "tokenCodeID": 69,
   "whitelistCodeID": 70,
-  
   "astro_airdrop": "terra15hlvnufpk8a3gcex09djzkhkz3jg9dpqvv6fvgd0ynudtu2z0qlq2fyfaq",
-
   "astro_multisig_address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
   "astro_cw20_token_address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
   "astro_token_address": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995",
+  "xastro_denom": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
   "astro_builder_unlock_address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz",
-  
   "satellite_address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
   "assembly_treasury_address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
-
   "pairCodeID": 428,
   "pairStableCodeID": 392,
-  "pairConcentratedCodeID": 2267,
-  "pairTransmuterCodeID": 2317,
-
+  "pairConcentratedCodeID": 2569,
+  "pairTransmuterCodeID": 3107,
   "factory_address": "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r",
   "router_address": "terra18plp90j0zd596zt3zdsf0w9vvk5ukwlwzwkksxv9mdu8rscat9sqndk5qz",
   "maker_address": "terra1ygcvxp9s054q8u2q4hvl52ke393zvgj0sllahlycm4mj8dm96zjsa45rzk",
-
   "coin_registry": "terra1zuf8fla02926nhpfvk09k2pg6qv9aayflp0qt4a0msppu2h4exqs6af275",
-
   "vesting_address": "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3",
   "generator_address": "terra1ksvlfex49desf4c452j6dewdjs6c48nafemetuwjyj6yexd7x3wqvwa7j9",
   "incentives_address": "terra1eywh4av8sln6r45pxq45ltj798htfy0cfcf7fy3pxc2gcv6uc07se4ch9x",
-
   "staking_address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
   "xastro_token_address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
-  
   "ibc_controller_address": "terra1fkuhmq52pj08qqffp0elrvmzel8zz857x0pjjuuaar54mgcpe35s9km660",
-
   "liquidity_manager_address": "terra1pj43kem5evz2mhynahd20m7etktcy497rat3mfeh7y074heqfu9s48v7q4",
-
-  "astro_converter": "terra1jyu4nct8ake3k8y8g42n8dvc9umtl5cktmtcy6rfdygse62fp7qse5rwjm"
+  "astro_converter": "terra1jyu4nct8ake3k8y8g42n8dvc9umtl5cktmtcy6rfdygse62fp7qse5rwjm",
+  "emissions_controller": "terra1kk32l44lhr2z6mvwxdz6s7m76yu003x9q0ta7xrx7nwckse8wusqvqkwkg",
+  "vx_astro": "terra1ell4a7xcfh5rmrln7myg8utn093e444syke5knhnw09kpsqyxzms8fd7mq"
 }

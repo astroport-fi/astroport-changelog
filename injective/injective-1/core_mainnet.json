@@ -1,32 +1,25 @@
 {
-    "whitelistCodeID": 30,
-    
-    "astr_multisig_address": "inj1fnumgs2wns8lra7zq36783set5cgud7l6dkf6v",
-
-    "astro_cw20_token_address": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
-    "astro_token_address": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
-
-    "pairCodeID": 212,
-    "pairStableCodeID": 211,
-    "pairPCLCodeID": 244,
-    "pairTransmuterCodeID": 427,
-
-    "factory_address": "inj19aenkaj6qhymmt746av8ck4r8euthq3zmxr2r6",
-    "router_address": "inj1y3h85v7z9v9dtdu4mpv6hjj4zfxp9d3atmv6hc",
-    "maker_address": "inj1sf4wtl6h5sjlvvl6khz6eecly72fl9kgsnfesv",
-    
-    "vesting_address": "inj1lq7etsvahc3rn6jnj3chvpx4d8hxwp4c3xy2wt",
-    "generator_address": "inj1z354nkau8f0dukgwctq9mladvdwu6zcj8k4928",
-    "incentives_address": "inj164pyppndppdmazfjrvecajnwcs3hmq06agn4ka",
-    
-    "coin_registry_address": "inj1k5uunty0xf353jut6eq0zgk6qy4grc9wufut2c",
-
-    "satellite_address": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq",
-    
-    "native_coin_wrapper_address": "inj1vqhamqddecntq2jdfe7el8uq4rk9qymfvhvdsm",
-    "cw20_wrapped_inj_address": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
-
-    "liquidity_manager_address": "inj1tt95g04lcm8d5kmsumymtku26c3q2e9ee3d5p2",
-
-    "astro_converter": "inj14h73u5tr8ud200lkz0du4qtfy8twpqv39u4xw4"
+  "whitelistCodeID": 30,
+  "astr_multisig_address": "inj1fnumgs2wns8lra7zq36783set5cgud7l6dkf6v",
+  "astro_cw20_token_address": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+  "astro_token_address": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
+  "xastro_denom": "ibc/11B5974E9592AFEDBD74F08BE92A06A626CE01BEB395090C1567ABEE551B04C0",
+  "pairCodeID": 1227,
+  "pairStableCodeID": 1228,
+  "pairPCLCodeID": 1226,
+  "pairTransmuterCodeID": 1229,
+  "factory_address": "inj19aenkaj6qhymmt746av8ck4r8euthq3zmxr2r6",
+  "router_address": "inj1y3h85v7z9v9dtdu4mpv6hjj4zfxp9d3atmv6hc",
+  "maker_address": "inj1sf4wtl6h5sjlvvl6khz6eecly72fl9kgsnfesv",
+  "vesting_address": "inj1lq7etsvahc3rn6jnj3chvpx4d8hxwp4c3xy2wt",
+  "generator_address": "inj1z354nkau8f0dukgwctq9mladvdwu6zcj8k4928",
+  "incentives_address": "inj164pyppndppdmazfjrvecajnwcs3hmq06agn4ka",
+  "coin_registry_address": "inj1k5uunty0xf353jut6eq0zgk6qy4grc9wufut2c",
+  "satellite_address": "inj1rsrefjc7xnl6d6fm6avl706nu5y6nkpxffyevq",
+  "native_coin_wrapper_address": "inj1vqhamqddecntq2jdfe7el8uq4rk9qymfvhvdsm",
+  "cw20_wrapped_inj_address": "inj12kq4zh7kckuu0rfpxcr9l6l2x26ajf23uc0w55",
+  "liquidity_manager_address": "inj1tt95g04lcm8d5kmsumymtku26c3q2e9ee3d5p2",
+  "astro_converter": "inj14h73u5tr8ud200lkz0du4qtfy8twpqv39u4xw4",
+  "emissions_controller": "inj1y0wvymlst08z3ey4wflcwfftemlj82mawyz57p",
+  "vx_astro": "inj1scc499d66w9466qwf2suu789lc66v5cg2qs8e9"
 }

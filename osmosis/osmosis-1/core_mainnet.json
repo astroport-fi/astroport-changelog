@@ -1,11 +1,14 @@
 {
   "astro_cw20_token_address": "ibc/C25A2303FE24B922DAFFDCE377AC5A42E5EF746806D32E2ED4B610DE85C203F7",
   "astro_token_address": "ibc/B8C608CEE08C4F30A15A7955306F2EDAF4A02BB191CABC4185C1A57FD978DA1B",
+  "xastro_denom": "ibc/2ED09B03AA396BC2F35B741F4CA4A82D33A24A1007BFC1973299842DD626F564",
   "pairConcentratedCodeID": 773,
   "factory_address": "osmo1246fnsutktuqqzrru673pqwtt64n288004j5fauyuezwr54llw5sl6drp6",
   "maker_address": "osmo1kl96qztvtrz9h8873jlcl9fz0fmgtdgfdw65shm9frr9y7xvc83qstjd8h",
   "incentives_address": "osmo16ky7cnuy4ekgrg5ff6f65zled068ww9myrvccwyxr78yf4s9lmnqd3cafa",
   "vesting_address": "osmo1juu094da7fz8cpala6nfawa0t28rqqmwlpycut0lr6pl8gvd8uasm7pggu",
   "coin_registry_address": "osmo1km2h2nkecuhp3xgnektgzgqd3l4p4gjwemtgw66g990efhxt0thq47k3zv",
-  "satellite_address": "osmo1pfeve3esg5rhhkfhlujxtthc25akcf3zpa3t9whghvvp2v5v92ps0z30r6"
+  "satellite_address": "osmo1pfeve3esg5rhhkfhlujxtthc25akcf3zpa3t9whghvvp2v5v92ps0z30r6",
+  "emissions_controller": "osmo1ga9gytqvnv672krwv5uakpneekfcj8yq2s6ktcrqnuc0elvt2n9syvytgn",
+  "vx_astro": "osmo18pz2hfapmw5cxpg92g227hfrq2n66hn5yyhsvn7cvtxd8u4qzj6qa9raey"
 }
