@@ -23,5 +23,9 @@
 
     "liquidity_manager_address": "sei1qyemc2lppaqtsedqh54erdgzq4x7pa6eqmfsln5x6ryj0s8qz6hql3ne48",
 
-    "astro_converter": "sei1ccpfvhy82vcs93zcyrht3dky898arggddh72p2gjyp2tvw2lktms93n57n"
+    "astro_converter": "sei1ccpfvhy82vcs93zcyrht3dky898arggddh72p2gjyp2tvw2lktms93n57n",
+    
+    "emissions_conntroller": "sei1dzq5pg86035rpuzfc7tvp9p2rv6qgww4lxejrdvnavnkugdslf6s8p79hz",
+    "vxastro": "sei1dpzqnkhdcpj9hzjv6jdzy3wzzp47d2rm750ss9p82rd0ydgp2x3s5fzcpj"
+    
 }
