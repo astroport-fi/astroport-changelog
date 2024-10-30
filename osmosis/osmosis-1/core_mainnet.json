@@ -7,5 +7,7 @@
   "incentives_address": "osmo16ky7cnuy4ekgrg5ff6f65zled068ww9myrvccwyxr78yf4s9lmnqd3cafa",
   "vesting_address": "osmo1juu094da7fz8cpala6nfawa0t28rqqmwlpycut0lr6pl8gvd8uasm7pggu",
   "coin_registry_address": "osmo1km2h2nkecuhp3xgnektgzgqd3l4p4gjwemtgw66g990efhxt0thq47k3zv",
-  "satellite_address": "osmo1pfeve3esg5rhhkfhlujxtthc25akcf3zpa3t9whghvvp2v5v92ps0z30r6"
+  "satellite_address": "osmo1pfeve3esg5rhhkfhlujxtthc25akcf3zpa3t9whghvvp2v5v92ps0z30r6",
+  "emissions_conntroller": "osmo1ga9gytqvnv672krwv5uakpneekfcj8yq2s6ktcrqnuc0elvt2n9syvytgn",
+  "vxastro": "osmo18pz2hfapmw5cxpg92g227hfrq2n66hn5yyhsvn7cvtxd8u4qzj6qa9rae"
 }
