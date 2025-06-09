@@ -17,5 +17,6 @@
   "staking": "neutron13ssdjsjzju0z2zar8v2z8lnjefhs3gqqu8wg5lztwha4mctn0rcslhecnk",
   "xastro_denom": "factory/neutron13ssdjsjzju0z2zar8v2z8lnjefhs3gqqu8wg5lztwha4mctn0rcslhecnk/xASTRO",
   "emissions_controller": "neutron1xe4zkp3hkd7rjp9s676x9kp680rw5xwr5735am4r9v0xuza4z0vsxtaj83",
-  "vx_astro": "neutron1sj7exsjqgy460zky8t0u0cvjutu09fswqfq3trssq9z935dryl3snjeekf"
+  "vx_astro": "neutron1sj7exsjqgy460zky8t0u0cvjutu09fswqfq3trssq9z935dryl3snjeekf",
+  "tributes": "neutron1al97ht3j275l7lf88qwnn3tjcfmhdtu6z3hv7dasduqkuee94rtsnm6kve"
 }
